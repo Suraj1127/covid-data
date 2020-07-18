@@ -1,0 +1,1850 @@
+date,province,district_name,municipality_name,cases_count
+2020-04-08,3,Dhading,Nilakantha Municipality,1
+2020-04-08,3,Kathmandu,Kathmandu Metropolitan City,2
+2020-04-08,4,Baglung,Baglung Municipality,2
+2020-04-08,7,Kailali,Dhangadhi Submetropolitan City,1
+2020-04-08,7,Kailali,Mohanyal Rural Municipality,2
+2020-04-08,7,Kanchanpur,Shuklaphanta National Park National Park,1
+2020-04-12,2,Parsa,Birgunj Metropolitan City,3
+2020-04-13,2,Rautahat,Gujara Municipality,1
+2020-04-13,7,Kailali,Dhangadhi Submetropolitan City,1
+2020-04-14,3,Kathmandu,Kageshwori Manahora Municipality,2
+2020-04-17,1,Udayapur,Triyuga Municipality,12
+2020-04-17,3,Chitwan,Bharatpur Metropolitan City,2
+2020-04-18,1,Udayapur,Triyuga Municipality,1
+2020-04-21,1,Udayapur,Triyuga Municipality,11
+2020-04-22,1,Udayapur,Triyuga Municipality,3
+2020-04-23,1,Bhojpur,Bhojpur Municipality,1
+2020-04-23,1,Udayapur,Triyuga Municipality,1
+2020-04-23,2,Dhanusa,Janakpur Submetropolitan City,1
+2020-04-25,1,Jhapa,Kankai Municipality,1
+2020-04-26,1,Jhapa,Kankai Municipality,1
+2020-04-26,2,Parsa,Birgunj Metropolitan City,2
+2020-04-28,2,Rautahat,Gujara Municipality,2
+2020-04-29,2,Bara,Jitpur Simara Submetropolitan City,2
+2020-04-29,2,Parsa,Birgunj Metropolitan City,1
+2020-05-01,5,Banke,Nepalgunj Submetropolitan City,1
+2020-05-01,5,Rupandehi,Sudhdhodhan Rural Municipality,1
+2020-05-03,2,Parsa,Parsagadhi Municipality,1
+2020-05-03,5,Banke,Nepalgunj Submetropolitan City,15
+2020-05-05,5,Banke,Nepalgunj Submetropolitan City,7
+2020-05-06,2,Parsa,Parsagadhi Municipality,7
+2020-05-06,2,Parsa,Paterwasugauli Rural Municipality,2
+2020-05-06,2,Parsa,SakhuwaPrasauni Rural Municipality,8
+2020-05-07,5,Kapilbastu,Buddhabhumi Municipality,2
+2020-05-08,5,Banke,Nepalgunj Submetropolitan City,1
+2020-05-09,1,Udayapur,Triyuga Municipality,3
+2020-05-09,2,Parsa,Parsagadhi Municipality,1
+2020-05-09,5,Kapilbastu,Buddhabhumi Municipality,3
+2020-05-10,1,Udayapur,Triyuga Municipality,1
+2020-05-11,2,Saptari,Rupani Rural Municipality,1
+2020-05-11,5,Bardiya,Barbardiya Municipality,1
+2020-05-11,5,Kapilbastu,Buddhabhumi Municipality,16
+2020-05-11,5,Rupandehi,Butwal Submetropolitan City,1
+2020-05-11,5,Rupandehi,Siyari Rural Municipality,1
+2020-05-11,5,Rupandehi,Sudhdhodhan Rural Municipality,4
+2020-05-12,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-05-12,2,Dhanusa,Janakpur Submetropolitan City,2
+2020-05-12,2,Mahottari,Aurahi Municipality,2
+2020-05-12,2,Parsa,Parsagadhi Municipality,19
+2020-05-12,2,Parsa,Paterwasugauli Rural Municipality,4
+2020-05-12,2,Parsa,SakhuwaPrasauni Rural Municipality,34
+2020-05-12,2,Sarlahi,Haripur Municipality,1
+2020-05-12,3,Bhaktapur,Changunarayan Municipality,2
+2020-05-12,3,Kathmandu,Budhanilakantha Municipality,1
+2020-05-12,5,Kapilbastu,Buddhabhumi Municipality,8
+2020-05-12,5,Rupandehi,Siyari Rural Municipality,4
+2020-05-12,5,Rupandehi,Sudhdhodhan Rural Municipality,5
+2020-05-13,2,Parsa,Parsagadhi Municipality,2
+2020-05-13,2,Parsa,SakhuwaPrasauni Rural Municipality,1
+2020-05-13,5,Banke,Rapti Sonari Rural Municipality,1
+2020-05-13,5,Kapilbastu,Buddhabhumi Municipality,9
+2020-05-13,5,Nawalparasi West,Bardaghat Municipality,1
+2020-05-13,5,Rupandehi,Butwal Submetropolitan City,2
+2020-05-13,5,Rupandehi,Siyari Rural Municipality,4
+2020-05-13,5,Rupandehi,Sudhdhodhan Rural Municipality,6
+2020-05-14,2,Dhanusa,Janakpur Submetropolitan City,1
+2020-05-14,3,Dhading,Nilakantha Municipality,1
+2020-05-14,3,Kathmandu,Budhanilakantha Municipality,1
+2020-05-14,3,Kathmandu,Chandragiri Municipality,1
+2020-05-14,4,Nawalparasi East,Binayee Tribeni Rural Municipality,1
+2020-05-14,5,Kapilbastu,Buddhabhumi Municipality,1
+2020-05-15,1,Udayapur,Triyuga Municipality,1
+2020-05-15,2,Parsa,Parsagadhi Municipality,4
+2020-05-15,3,Kathmandu,Budhanilakantha Municipality,1
+2020-05-15,3,Makwanpur,Bhimphedi Rural Municipality,1
+2020-05-15,5,Banke,Rapti Sonari Rural Municipality,8
+2020-05-15,5,Dang,Tulsipur Submetropolitan City,3
+2020-05-16,2,Dhanusa,Janakpur Submetropolitan City,2
+2020-05-16,2,Mahottari,Aurahi Municipality,1
+2020-05-16,2,Parsa,Parsagadhi Municipality,2
+2020-05-16,2,Sarlahi,Chandranagar Rural Municipality,1
+2020-05-16,2,Siraha,Naraha Rural Municipality,1
+2020-05-16,3,Chitwan,Bharatpur Metropolitan City,1
+2020-05-16,3,Kavrepalanchok,Dhulikhel Municipality,1
+2020-05-16,3,Sindhupalchok,Panchpokhari Thangpal Rural Municipality,1
+2020-05-16,5,Bardiya,Barbardiya Municipality,1
+2020-05-16,5,Kapilbastu,Buddhabhumi Municipality,3
+2020-05-17,1,Dhankuta,Dhankuta Municipality,1
+2020-05-17,1,Morang,Biratnagar Metropolitan City,2
+2020-05-17,2,Rautahat,Brindaban Municipality,3
+2020-05-17,2,Rautahat,Chandrapur Municipality,2
+2020-05-17,2,Rautahat,Gujara Municipality,5
+2020-05-17,5,Banke,Narainapur Rural Municipality,1
+2020-05-18,1,Jhapa,Kankai Municipality,1
+2020-05-18,1,Khotang,Rupakot Majhuwagadhi Municipality,1
+2020-05-18,1,Morang,Belbari Municipality,1
+2020-05-18,1,Sunsari,Inaruwa Municipality,1
+2020-05-18,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-05-18,2,Dhanusa,Janakpur Submetropolitan City,3
+2020-05-18,2,Rautahat,Brindaban Municipality,2
+2020-05-18,2,Rautahat,Chandrapur Municipality,1
+2020-05-18,2,Rautahat,Gujara Municipality,6
+2020-05-18,3,Dhading,Nilakantha Municipality,1
+2020-05-18,5,Banke,Duduwa Rural Municipality,3
+2020-05-18,5,Banke,Kohalpur Municipality,19
+2020-05-18,5,Banke,Nepalgunj Submetropolitan City,5
+2020-05-18,5,Banke,Rapti Sonari Rural Municipality,32
+2020-05-18,5,Dang,Tulsipur Submetropolitan City,1
+2020-05-18,5,Gulmi,Resunga Municipality,1
+2020-05-18,6,Dailekh,Bhairabi Rural Municipality,1
+2020-05-19,1,Jhapa,Barhadashi Rural Municipality,1
+2020-05-19,1,Jhapa,Kankai Municipality,5
+2020-05-19,1,Jhapa,Shivasataxi Municipality,3
+2020-05-19,1,Morang,Belbari Municipality,1
+2020-05-19,1,Sunsari,Itahari Submetropolitan City,1
+2020-05-19,2,Sarlahi,Chandranagar Rural Municipality,1
+2020-05-19,2,Sarlahi,Kabilasi Municipality,1
+2020-05-19,3,Bhaktapur,Changunarayan Municipality,1
+2020-05-19,3,Kathmandu,Budhanilakantha Municipality,1
+2020-05-19,3,Kathmandu,Kathmandu Metropolitan City,2
+2020-05-19,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-05-19,3,Makwanpur,Kailash Rural Municipality,1
+2020-05-19,3,Ramechhap,Ramechhap Municipality,1
+2020-05-19,3,Sindhuli,Kamalamai Municipality,1
+2020-05-19,4,Lamjung,Marsyangdi Rural Municipality,1
+2020-05-19,5,Kapilbastu,Buddhabhumi Municipality,2
+2020-05-19,5,Kapilbastu,Maharajgunj Municipality,1
+2020-05-19,5,Kapilbastu,Shivaraj Municipality,1
+2020-05-19,5,Nawalparasi West,Sunwal Municipality,1
+2020-05-20,1,Dhankuta,Chhathar Jorpati Rural Municipality,1
+2020-05-20,1,Dhankuta,Dhankuta Municipality,4
+2020-05-20,5,Banke,Kohalpur Municipality,1
+2020-05-20,5,Banke,Nepalgunj Submetropolitan City,1
+2020-05-20,5,Banke,Rapti Sonari Rural Municipality,4
+2020-05-20,5,Kapilbastu,Buddhabhumi Municipality,11
+2020-05-20,5,Kapilbastu,Shivaraj Municipality,2
+2020-05-20,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-05-21,1,Dhankuta,Dhankuta Municipality,1
+2020-05-21,1,Jhapa,Barhadashi Rural Municipality,1
+2020-05-21,1,Jhapa,Kankai Municipality,22
+2020-05-21,1,Sunsari,Inaruwa Municipality,1
+2020-05-21,5,Banke,Rapti Sonari Rural Municipality,2
+2020-05-21,5,Dang,Tulsipur Submetropolitan City,1
+2020-05-21,5,Kapilbastu,Buddhabhumi Municipality,1
+2020-05-21,5,Rupandehi,Sudhdhodhan Rural Municipality,1
+2020-05-22,1,Morang,Biratnagar Metropolitan City,1
+2020-05-22,2,Bara,Jitpur Simara Submetropolitan City,3
+2020-05-22,2,Bara,Kalaiya Submetropolitan City,2
+2020-05-22,2,Bara,Kolhabi Municipality,1
+2020-05-22,2,Saptari,Shambhunath Municipality,1
+2020-05-22,2,Sarlahi,Chakraghatta Rural Municipality,1
+2020-05-22,2,Sarlahi,Chandranagar Rural Municipality,8
+2020-05-22,2,Sarlahi,Ishworpur Municipality,3
+2020-05-22,2,Sarlahi,Kabilasi Municipality,3
+2020-05-22,3,Bhaktapur,Changunarayan Municipality,1
+2020-05-22,3,Chitwan,Bharatpur Metropolitan City,2
+2020-05-22,3,Makwanpur,Bhimphedi Rural Municipality,1
+2020-05-22,4,Nawalparasi East,Binayee Tribeni Rural Municipality,1
+2020-05-22,5,Banke,Kohalpur Municipality,4
+2020-05-22,5,Banke,Rapti Sonari Rural Municipality,10
+2020-05-22,5,Kapilbastu,Buddhabhumi Municipality,8
+2020-05-22,5,Kapilbastu,Maharajgunj Municipality,1
+2020-05-22,5,Nawalparasi West,Ramgram Municipality,1
+2020-05-22,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-05-22,7,Baitadi,Patan Municipality,1
+2020-05-22,7,Dadeldhura,Alital Rural Municipality,1
+2020-05-22,7,Kailali,Ghodaghodi Municipality,2
+2020-05-22,7,Kailali,Mohanyal Rural Municipality,1
+2020-05-23,1,Jhapa,Shivasataxi Municipality,1
+2020-05-23,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-05-23,2,Sarlahi,Bramhapuri Rural Municipality,1
+2020-05-23,2,Sarlahi,Chakraghatta Rural Municipality,1
+2020-05-23,2,Sarlahi,Chandranagar Rural Municipality,1
+2020-05-23,2,Sarlahi,Haripur Municipality,2
+2020-05-23,2,Sarlahi,Ishworpur Municipality,3
+2020-05-23,2,Sarlahi,Kabilasi Municipality,4
+2020-05-23,2,Sarlahi,Lalbandi Municipality,1
+2020-05-23,3,Chitwan,Bharatpur Metropolitan City,1
+2020-05-23,3,Kathmandu,Budhanilakantha Municipality,1
+2020-05-23,5,Banke,Duduwa Rural Municipality,1
+2020-05-23,5,Banke,Kohalpur Municipality,1
+2020-05-23,5,Banke,Nepalgunj Submetropolitan City,1
+2020-05-23,5,Banke,Rapti Sonari Rural Municipality,24
+2020-05-23,5,Bardiya,Barbardiya Municipality,1
+2020-05-23,5,Kapilbastu,Buddhabhumi Municipality,4
+2020-05-23,5,Kapilbastu,Maharajgunj Municipality,1
+2020-05-23,5,Kapilbastu,Shivaraj Municipality,3
+2020-05-23,5,Rupandehi,Butwal Submetropolitan City,4
+2020-05-23,5,Rupandehi,Gaidahawa Rural Municipality,1
+2020-05-23,5,Rupandehi,Sainamaina Municipality,1
+2020-05-23,5,Rupandehi,Siyari Rural Municipality,1
+2020-05-23,5,Rupandehi,Tillotama Municipality,1
+2020-05-23,6,Surkhet,Lekbeshi Municipality,3
+2020-05-23,7,Baitadi,Patan Municipality,2
+2020-05-23,7,Baitadi,Surnaya Rural Municipality,2
+2020-05-24,1,Morang,Belbari Municipality,1
+2020-05-24,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-05-24,2,Parsa,Parsagadhi Municipality,1
+2020-05-24,2,Parsa,SakhuwaPrasauni Rural Municipality,2
+2020-05-24,2,Rautahat,Gujara Municipality,1
+2020-05-24,2,Sarlahi,Chandranagar Rural Municipality,1
+2020-05-24,3,Kathmandu,Kathmandu Metropolitan City,1
+2020-05-24,3,Nuwakot,Bidur Municipality,1
+2020-05-24,5,Gulmi,Resunga Municipality,1
+2020-05-24,5,Kapilbastu,Buddhabhumi Municipality,3
+2020-05-24,5,Rupandehi,Butwal Submetropolitan City,1
+2020-05-24,5,Rupandehi,Siyari Rural Municipality,2
+2020-05-24,5,Rupandehi,Sudhdhodhan Rural Municipality,3
+2020-05-25,2,Bara,Jitpur Simara Submetropolitan City,17
+2020-05-25,2,Bara,Kalaiya Submetropolitan City,3
+2020-05-25,2,Bara,Kolhabi Municipality,2
+2020-05-25,2,Bara,Nijgadh Municipality,2
+2020-05-25,2,Dhanusa,Janakpur Submetropolitan City,3
+2020-05-25,2,Parsa,Parsagadhi Municipality,1
+2020-05-25,2,Rautahat,Brindaban Municipality,2
+2020-05-25,2,Rautahat,Chandrapur Municipality,2
+2020-05-25,2,Rautahat,Gujara Municipality,19
+2020-05-25,2,Rautahat,Katahariya Municipality,2
+2020-05-25,2,Rautahat,Phatuwa Bijayapur Municipality,1
+2020-05-25,2,Saptari,Rupani Rural Municipality,1
+2020-05-25,2,Saptari,Shambhunath Municipality,1
+2020-05-25,3,Kathmandu,Budhanilakantha Municipality,1
+2020-05-25,3,Kathmandu,Kathmandu Metropolitan City,3
+2020-05-25,5,Banke,Rapti Sonari Rural Municipality,4
+2020-05-25,5,Bardiya,Barbardiya Municipality,4
+2020-05-25,5,Kapilbastu,Buddhabhumi Municipality,2
+2020-05-25,5,Kapilbastu,Maharajgunj Municipality,1
+2020-05-25,6,Dailekh,Bhairabi Rural Municipality,4
+2020-05-25,6,Dailekh,Mahabu Rural Municipality,3
+2020-05-25,7,Achham,Mangalsen Municipality,1
+2020-05-26,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-05-26,2,Bara,Kalaiya Submetropolitan City,1
+2020-05-26,2,Bara,Kolhabi Municipality,1
+2020-05-26,2,Dhanusa,Janakpur Submetropolitan City,1
+2020-05-26,2,Mahottari,Bhangaha Municipality,2
+2020-05-26,2,Rautahat,Brindaban Municipality,3
+2020-05-26,2,Rautahat,Chandrapur Municipality,7
+2020-05-26,2,Rautahat,Gujara Municipality,11
+2020-05-26,2,Rautahat,Katahariya Municipality,1
+2020-05-26,2,Siraha,Golbazar Municipality,4
+2020-05-26,2,Siraha,Mirchaiya Municipality,1
+2020-05-26,4,Syangja,Waling Municipality,2
+2020-05-26,5,Arghakhanchi,Bhumekasthan Municipality,2
+2020-05-26,5,Banke,Duduwa Rural Municipality,1
+2020-05-26,5,Banke,Kohalpur Municipality,1
+2020-05-26,5,Banke,Rapti Sonari Rural Municipality,6
+2020-05-26,5,Gulmi,Resunga Municipality,2
+2020-05-26,5,Kapilbastu,Buddhabhumi Municipality,26
+2020-05-26,5,Rupandehi,Sudhdhodhan Rural Municipality,1
+2020-05-26,6,Jumla,Chandannath Municipality,1
+2020-05-26,6,Jumla,Tatopani Rural Municipality,1
+2020-05-26,6,Surkhet,Bheriganga Municipality,1
+2020-05-26,6,Surkhet,Gurbhakot Municipality,2
+2020-05-26,6,Surkhet,Lekbeshi Municipality,9
+2020-05-26,7,Achham,Dhakari Rural Municipality,1
+2020-05-26,7,Kailali,Ghodaghodi Municipality,1
+2020-05-27,1,Jhapa,Kankai Municipality,13
+2020-05-27,1,Jhapa,Shivasataxi Municipality,4
+2020-05-27,2,Bara,Jitpur Simara Submetropolitan City,4
+2020-05-27,2,Bara,Kolhabi Municipality,3
+2020-05-27,2,Rautahat,Brindaban Municipality,4
+2020-05-27,2,Rautahat,Chandrapur Municipality,13
+2020-05-27,2,Rautahat,Gujara Municipality,16
+2020-05-27,2,Rautahat,Katahariya Municipality,3
+2020-05-27,2,Saptari,Agnisair Krishna Savaran Rural Municipality,1
+2020-05-27,2,Saptari,Khadak Municipality,1
+2020-05-27,2,Saptari,Rupani Rural Municipality,3
+2020-05-27,2,Saptari,Shambhunath Municipality,6
+2020-05-27,2,Siraha,Golbazar Municipality,1
+2020-05-27,2,Siraha,Naraha Rural Municipality,1
+2020-05-27,3,Makwanpur,Bhimphedi Rural Municipality,1
+2020-05-27,4,Baglung,Dhorpatan Municipality,1
+2020-05-27,4,Baglung,Taman Khola Rural Municipality,3
+2020-05-27,4,Baglung,Tara Khola Rural Municipality,1
+2020-05-27,4,Myagdi,Malika Rural Municipality,1
+2020-05-27,5,Banke,Kohalpur Municipality,4
+2020-05-27,5,Banke,Rapti Sonari Rural Municipality,12
+2020-05-27,5,Dang,Ghorahi Submetropolitan City,1
+2020-05-27,5,Dang,Lamahi Municipality,6
+2020-05-27,5,Dang,Tulsipur Submetropolitan City,8
+2020-05-27,5,Rukum East,Sisne Rural Municipality,3
+2020-05-28,1,Jhapa,Kankai Municipality,21
+2020-05-28,1,Jhapa,Shivasataxi Municipality,4
+2020-05-28,1,Solukhumbu,Khumbupasanglahmu Rural Municipality,1
+2020-05-28,2,Dhanusa,Janakpur Submetropolitan City,28
+2020-05-28,2,Mahottari,Aurahi Municipality,6
+2020-05-28,2,Mahottari,Bardibas Municipality,1
+2020-05-28,2,Mahottari,Bhangaha Municipality,4
+2020-05-28,2,Mahottari,Gaushala Municipality,5
+2020-05-28,2,Mahottari,Pipra Rural Municipality,1
+2020-05-28,2,Mahottari,Sonama Rural Municipality,1
+2020-05-28,2,Rautahat,Brindaban Municipality,1
+2020-05-28,2,Rautahat,Chandrapur Municipality,7
+2020-05-28,2,Rautahat,Gujara Municipality,12
+2020-05-28,2,Saptari,Rupani Rural Municipality,5
+2020-05-28,2,Saptari,Shambhunath Municipality,9
+2020-05-28,2,Sarlahi,Chandranagar Rural Municipality,2
+2020-05-28,2,Sarlahi,Haripur Municipality,2
+2020-05-28,2,Sarlahi,Kabilasi Municipality,3
+2020-05-28,2,Siraha,Golbazar Municipality,6
+2020-05-28,3,Dolakha,Bigu Rural Municipality,2
+2020-05-28,3,Makwanpur,Bhimphedi Rural Municipality,1
+2020-05-28,4,Nawalparasi East,Kawasoti Municipality,1
+2020-05-28,4,Syangja,Bhirkot Municipality,3
+2020-05-28,5,Banke,Rapti Sonari Rural Municipality,1
+2020-05-28,5,Bardiya,Barbardiya Municipality,3
+2020-05-28,6,Dailekh,Bhairabi Rural Municipality,4
+2020-05-28,6,Dailekh,Mahabu Rural Municipality,4
+2020-05-28,6,Surkhet,Lekbeshi Municipality,14
+2020-05-28,7,Bajhang,Kanda Rural Municipality,1
+2020-05-28,7,Darchula,Apihimal Rural Municipality,1
+2020-05-28,7,Kailali,Ghodaghodi Municipality,1
+2020-05-28,7,Kailali,Mohanyal Rural Municipality,1
+2020-05-29,1,Jhapa,Arjundhara Municipality,3
+2020-05-29,1,Jhapa,Kankai Municipality,24
+2020-05-29,1,Jhapa,Shivasataxi Municipality,1
+2020-05-29,2,Bara,Jitpur Simara Submetropolitan City,2
+2020-05-29,2,Bara,Kolhabi Municipality,2
+2020-05-29,2,Parsa,Parsagadhi Municipality,2
+2020-05-29,2,Parsa,SakhuwaPrasauni Rural Municipality,3
+2020-05-29,2,Rautahat,Brindaban Municipality,2
+2020-05-29,2,Rautahat,Chandrapur Municipality,14
+2020-05-29,2,Rautahat,Gujara Municipality,40
+2020-05-29,2,Saptari,Rupani Rural Municipality,1
+2020-05-29,2,Saptari,Shambhunath Municipality,3
+2020-05-29,2,Sarlahi,Chandranagar Rural Municipality,3
+2020-05-29,2,Sarlahi,Kabilasi Municipality,2
+2020-05-29,4,Myagdi,Dhaulagiri Rural Municipality,1
+2020-05-29,4,Nawalparasi East,Binayee Tribeni Rural Municipality,2
+2020-05-29,5,Arghakhanchi,Bhumekasthan Municipality,1
+2020-05-29,5,Banke,Rapti Sonari Rural Municipality,10
+2020-05-29,5,Dang,Tulsipur Submetropolitan City,2
+2020-05-29,5,Kapilbastu,Buddhabhumi Municipality,51
+2020-05-29,5,Rupandehi,Siyari Rural Municipality,1
+2020-05-30,1,Jhapa,Kankai Municipality,1
+2020-05-30,1,Sankhuwasabha,Makalu Rural Municipality,2
+2020-05-30,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-05-30,2,Dhanusa,Janakpur Submetropolitan City,7
+2020-05-30,2,Mahottari,Aurahi Municipality,2
+2020-05-30,2,Mahottari,Bhangaha Municipality,2
+2020-05-30,2,Parsa,Parsagadhi Municipality,2
+2020-05-30,2,Rautahat,Brindaban Municipality,2
+2020-05-30,2,Rautahat,Chandrapur Municipality,1
+2020-05-30,2,Rautahat,Gujara Municipality,3
+2020-05-30,2,Saptari,Rupani Rural Municipality,8
+2020-05-30,2,Saptari,Shambhunath Municipality,1
+2020-05-30,2,Sarlahi,Chandranagar Rural Municipality,9
+2020-05-30,2,Sarlahi,Kabilasi Municipality,8
+2020-05-30,2,Siraha,Golbazar Municipality,5
+2020-05-30,2,Siraha,Naraha Rural Municipality,6
+2020-05-30,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-05-30,5,Dang,Tulsipur Submetropolitan City,5
+2020-05-30,5,Kapilbastu,Buddhabhumi Municipality,109
+2020-05-30,6,Dailekh,Bhairabi Rural Municipality,8
+2020-05-30,6,Dailekh,Mahabu Rural Municipality,6
+2020-05-31,1,Jhapa,Kankai Municipality,4
+2020-05-31,1,Morang,Belbari Municipality,1
+2020-05-31,2,Dhanusa,Janakpur Submetropolitan City,21
+2020-05-31,2,Parsa,Parsagadhi Municipality,4
+2020-05-31,2,Parsa,SakhuwaPrasauni Rural Municipality,1
+2020-05-31,2,Rautahat,Brindaban Municipality,1
+2020-05-31,2,Rautahat,Chandrapur Municipality,16
+2020-05-31,2,Rautahat,Gujara Municipality,12
+2020-05-31,2,Saptari,Rupani Rural Municipality,6
+2020-05-31,2,Saptari,Shambhunath Municipality,6
+2020-05-31,2,Sarlahi,Chandranagar Rural Municipality,6
+2020-05-31,2,Sarlahi,Haripur Municipality,2
+2020-05-31,2,Sarlahi,Kabilasi Municipality,2
+2020-05-31,4,Syangja,Bhirkot Municipality,2
+2020-05-31,4,Tanahu,Rhishing Rural Municipality,1
+2020-05-31,5,Banke,Rapti Sonari Rural Municipality,8
+2020-05-31,5,Kapilbastu,Buddhabhumi Municipality,5
+2020-05-31,6,Dailekh,Bhairabi Rural Municipality,8
+2020-05-31,6,Dailekh,Mahabu Rural Municipality,10
+2020-05-31,6,Kalikot,Pachaljharana Rural Municipality,18
+2020-05-31,6,Salyan,Kalimati Rural Municipality,3
+2020-05-31,6,Salyan,Sharada Municipality,22
+2020-05-31,6,Surkhet,Lekbeshi Municipality,1
+2020-05-31,7,Bajura,Himali Rural Municipality,3
+2020-05-31,7,Kailali,Mohanyal Rural Municipality,3
+2020-06-01,1,Jhapa,Barhadashi Rural Municipality,2
+2020-06-01,1,Udayapur,Triyuga Municipality,1
+2020-06-01,2,Dhanusa,Dhanusadham Municipality,7
+2020-06-01,2,Mahottari,Aurahi Municipality,2
+2020-06-01,2,Rautahat,Brindaban Municipality,18
+2020-06-01,2,Sarlahi,Haripur Municipality,38
+2020-06-01,2,Siraha,Dhangadhimai Municipality,5
+2020-06-01,3,Dolakha,Bigu Rural Municipality,1
+2020-06-01,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-06-01,4,Nawalparasi East,Binayee Tribeni Rural Municipality,1
+2020-06-01,4,Nawalparasi East,Hupsekot Rural Municipality,3
+2020-06-01,5,Banke,Rapti Sonari Rural Municipality,7
+2020-06-01,5,Dang,Ghorahi Submetropolitan City,9
+2020-06-01,5,Gulmi,Gulmidarbar Rural Municipality,1
+2020-06-01,5,Kapilbastu,Buddhabhumi Municipality,51
+2020-06-01,5,Palpa,Mathagadhi Rural Municipality,1
+2020-06-01,5,Palpa,Rambha Rural Municipality,1
+2020-06-01,5,Rupandehi,Siyari Rural Municipality,1
+2020-06-01,5,Rupandehi,Sudhdhodhan Rural Municipality,1
+2020-06-01,6,Dailekh,Mahabu Rural Municipality,60
+2020-06-01,6,Salyan,Sharada Municipality,10
+2020-06-01,6,Surkhet,Birendranagar Municipality,5
+2020-06-01,7,Achham,Mangalsen Municipality,1
+2020-06-01,7,Baitadi,Patan Municipality,1
+2020-06-01,7,Doti,Shikhar Municipality,1
+2020-06-01,7,Kailali,Gauriganga Municipality,14
+2020-06-01,7,Kanchanpur,Shuklaphanta National Park National Park,1
+2020-06-02,1,Sunsari,Ramdhuni Municipality,1
+2020-06-02,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-06-02,2,Dhanusa,Dhanusadham Municipality,6
+2020-06-02,2,Mahottari,Aurahi Municipality,2
+2020-06-02,2,Rautahat,Brindaban Municipality,74
+2020-06-02,2,Sarlahi,Haripur Municipality,21
+2020-06-02,2,Siraha,Dhangadhimai Municipality,17
+2020-06-02,3,Bhaktapur,Bhaktapur Municipality,1
+2020-06-02,3,Dhading,Netrawati Rural Municipality,1
+2020-06-02,3,Kathmandu,Budhanilakantha Municipality,4
+2020-06-02,3,Nuwakot,Suryagadhi Rural Municipality,2
+2020-06-02,4,Nawalparasi East,Hupsekot Rural Municipality,1
+2020-06-02,4,Parbat,Kushma Municipality,5
+2020-06-02,4,Syangja,Bhirkot Municipality,5
+2020-06-02,5,Banke,Rapti Sonari Rural Municipality,17
+2020-06-02,5,Bardiya,Bardiya National Park National Park,3
+2020-06-02,5,Dang,Ghorahi Submetropolitan City,17
+2020-06-02,5,Kapilbastu,Buddhabhumi Municipality,16
+2020-06-02,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-06-02,5,Pyuthan,Pyuthan Municipality,1
+2020-06-02,5,Rupandehi,Siyari Rural Municipality,10
+2020-06-02,6,Dailekh,Mahabu Rural Municipality,9
+2020-06-02,6,Salyan,Sharada Municipality,18
+2020-06-02,6,Surkhet,Birendranagar Municipality,27
+2020-06-02,7,Achham,Mangalsen Municipality,10
+2020-06-02,7,Kailali,Gauriganga Municipality,10
+2020-06-02,7,Kanchanpur,Shuklaphanta National Park National Park,8
+2020-06-03,1,Dhankuta,Dhankuta Municipality,1
+2020-06-03,1,Jhapa,Barhadashi Rural Municipality,2
+2020-06-03,1,Morang,Belbari Municipality,2
+2020-06-03,1,Panchthar,Phidim Municipality,1
+2020-06-03,1,Sunsari,Ramdhuni Municipality,7
+2020-06-03,1,Taplejung,Phaktanglung Rural Municipality,3
+2020-06-03,1,Terhathum,Phedap Rural Municipality,1
+2020-06-03,2,Dhanusa,Dhanusadham Municipality,1
+2020-06-03,2,Mahottari,Aurahi Municipality,9
+2020-06-03,2,Parsa,Paterwasugauli Rural Municipality,8
+2020-06-03,2,Rautahat,Brindaban Municipality,11
+2020-06-03,2,Saptari,Rupani Rural Municipality,1
+2020-06-03,2,Sarlahi,Haripur Municipality,15
+2020-06-03,3,Kathmandu,Budhanilakantha Municipality,3
+2020-06-03,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-06-03,5,Dang,Ghorahi Submetropolitan City,5
+2020-06-03,5,Kapilbastu,Buddhabhumi Municipality,69
+2020-06-03,5,Nawalparasi West,Sarawal Rural Municipality,8
+2020-06-03,5,Palpa,Mathagadhi Rural Municipality,2
+2020-06-03,5,Pyuthan,Pyuthan Municipality,2
+2020-06-03,5,Rupandehi,Siyari Rural Municipality,27
+2020-06-03,6,Dailekh,Mahabu Rural Municipality,7
+2020-06-03,6,Kalikot,Pachaljharana Rural Municipality,7
+2020-06-03,6,Salyan,Sharada Municipality,3
+2020-06-03,7,Doti,Shikhar Municipality,2
+2020-06-03,7,Kailali,Gauriganga Municipality,3
+2020-06-04,1,Jhapa,Barhadashi Rural Municipality,5
+2020-06-04,1,Khotang,Rupakot Majhuwagadhi Municipality,3
+2020-06-04,1,Morang,Belbari Municipality,2
+2020-06-04,1,Taplejung,Phaktanglung Rural Municipality,1
+2020-06-04,2,Bara,Jitpur Simara Submetropolitan City,12
+2020-06-04,2,Dhanusa,Dhanusadham Municipality,6
+2020-06-04,2,Mahottari,Aurahi Municipality,3
+2020-06-04,2,Parsa,Paterwasugauli Rural Municipality,1
+2020-06-04,2,Rautahat,Brindaban Municipality,65
+2020-06-04,2,Saptari,Rupani Rural Municipality,13
+2020-06-04,2,Sarlahi,Haripur Municipality,3
+2020-06-04,3,Sindhuli,Kamalamai Municipality,1
+2020-06-04,4,Baglung,Dhorpatan Municipality,10
+2020-06-04,4,Myagdi,Raghuganga Rural Municipality,1
+2020-06-04,4,Parbat,Kushma Municipality,4
+2020-06-04,4,Syangja,Bhirkot Municipality,1
+2020-06-04,5,Banke,Rapti Sonari Rural Municipality,42
+2020-06-04,5,Dang,Ghorahi Submetropolitan City,15
+2020-06-04,5,Kapilbastu,Buddhabhumi Municipality,29
+2020-06-04,6,Dailekh,Mahabu Rural Municipality,105
+2020-06-04,6,Mugu,Mugum Karmarong Rural Municipality,1
+2020-06-04,6,Surkhet,Birendranagar Municipality,8
+2020-06-04,7,Doti,Shikhar Municipality,3
+2020-06-05,1,Bhojpur,Bhojpur Municipality,5
+2020-06-05,1,Jhapa,Barhadashi Rural Municipality,12
+2020-06-05,1,Morang,Belbari Municipality,6
+2020-06-05,1,Sunsari,Ramdhuni Municipality,21
+2020-06-05,2,Bara,Jitpur Simara Submetropolitan City,3
+2020-06-05,2,Dhanusa,Dhanusadham Municipality,4
+2020-06-05,2,Mahottari,Aurahi Municipality,17
+2020-06-05,2,Rautahat,Brindaban Municipality,6
+2020-06-05,3,Dolakha,Bigu Rural Municipality,1
+2020-06-05,3,Kavrepalanchok,Namobuddha Municipality,5
+2020-06-05,3,Ramechhap,Gokulganga Rural Municipality,18
+2020-06-05,3,Sindhuli,Kamalamai Municipality,2
+2020-06-05,4,Gorkha,Dharche Rural Municipality,1
+2020-06-05,4,Kaski,Machhapuchchhre Rural Municipality,1
+2020-06-05,4,Tanahu,Byas Municipality,2
+2020-06-05,5,Arghakhanchi,Sitganga Municipality,1
+2020-06-05,5,Dang,Ghorahi Submetropolitan City,1
+2020-06-05,5,Gulmi,Resunga Municipality,1
+2020-06-05,5,Kapilbastu,Buddhabhumi Municipality,44
+2020-06-05,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-06-05,5,Palpa,Mathagadhi Rural Municipality,1
+2020-06-05,5,Rupandehi,Siyari Rural Municipality,18
+2020-06-05,6,Dailekh,Mahabu Rural Municipality,90
+2020-06-05,6,Humla,Simkot Rural Municipality,1
+2020-06-05,6,Jumla,Guthichaur Rural Municipality,3
+2020-06-05,6,Surkhet,Birendranagar Municipality,1
+2020-06-05,7,Achham,Mangalsen Municipality,1
+2020-06-05,7,Bajhang,Surma Rural Municipality,1
+2020-06-05,7,Dadeldhura,Alital Rural Municipality,5
+2020-06-05,7,Kailali,Gauriganga Municipality,4
+2020-06-06,1,Morang,Belbari Municipality,2
+2020-06-06,1,Sunsari,Ramdhuni Municipality,5
+2020-06-06,2,Dhanusa,Dhanusadham Municipality,8
+2020-06-06,2,Mahottari,Aurahi Municipality,35
+2020-06-06,2,Rautahat,Brindaban Municipality,6
+2020-06-06,2,Saptari,Rupani Rural Municipality,8
+2020-06-06,2,Sarlahi,Haripur Municipality,27
+2020-06-06,3,Bhaktapur,Bhaktapur Municipality,1
+2020-06-06,3,Kathmandu,Budhanilakantha Municipality,6
+2020-06-06,4,Baglung,Dhorpatan Municipality,1
+2020-06-06,4,Kaski,Machhapuchchhre Rural Municipality,3
+2020-06-06,4,Syangja,Bhirkot Municipality,10
+2020-06-06,5,Arghakhanchi,Sitganga Municipality,1
+2020-06-06,5,Banke,Rapti Sonari Rural Municipality,12
+2020-06-06,5,Bardiya,Bardiya National Park National Park,28
+2020-06-06,5,Kapilbastu,Buddhabhumi Municipality,50
+2020-06-06,5,Nawalparasi West,Sarawal Rural Municipality,5
+2020-06-06,5,Rupandehi,Siyari Rural Municipality,3
+2020-06-06,6,Dailekh,Mahabu Rural Municipality,47
+2020-06-06,6,Dolpa,Shey Phoksundo Rural Municipality,1
+2020-06-06,6,Jajarkot,Kuse Rural Municipality,5
+2020-06-06,6,Salyan,Sharada Municipality,38
+2020-06-06,6,Surkhet,Birendranagar Municipality,10
+2020-06-06,7,Achham,Mangalsen Municipality,1
+2020-06-06,7,Bajhang,Surma Rural Municipality,6
+2020-06-06,7,Dadeldhura,Alital Rural Municipality,1
+2020-06-06,7,Kailali,Gauriganga Municipality,2
+2020-06-06,7,Kanchanpur,Shuklaphanta National Park National Park,1
+2020-06-07,1,Sankhuwasabha,Dharmadevi Municipality,10
+2020-06-07,2,Sarlahi,Ishworpur Municipality,84
+2020-06-07,3,Bhaktapur,Changunarayan Municipality,2
+2020-06-07,4,Kaski,Machhapuchchhre Rural Municipality,38
+2020-06-07,5,Pyuthan,Mandavi Rural Municipality,20
+2020-06-07,6,Jumla,Guthichaur Rural Municipality,54
+2020-06-07,7,Doti,Adharsha Rural Municipality,5
+2020-06-08,1,Jhapa,Barhadashi Rural Municipality,9
+2020-06-08,1,Morang,Belbari Municipality,9
+2020-06-08,1,Panchthar,Phidim Municipality,1
+2020-06-08,1,Sunsari,Ramdhuni Municipality,1
+2020-06-08,2,Bara,Jitpur Simara Submetropolitan City,7
+2020-06-08,2,Dhanusa,Dhanusadham Municipality,15
+2020-06-08,2,Mahottari,Aurahi Municipality,12
+2020-06-08,2,Parsa,Paterwasugauli Rural Municipality,8
+2020-06-08,2,Rautahat,Brindaban Municipality,11
+2020-06-08,2,Saptari,Rupani Rural Municipality,22
+2020-06-08,2,Sarlahi,Haripur Municipality,106
+2020-06-08,4,Kaski,Machhapuchchhre Rural Municipality,1
+2020-06-08,4,Syangja,Bhirkot Municipality,1
+2020-06-08,5,Arghakhanchi,Sitganga Municipality,31
+2020-06-08,5,Banke,Rapti Sonari Rural Municipality,1
+2020-06-08,5,Bardiya,Bardiya National Park National Park,18
+2020-06-08,5,Dang,Ghorahi Submetropolitan City,4
+2020-06-08,5,Gulmi,Resunga Municipality,1
+2020-06-08,5,Kapilbastu,Buddhabhumi Municipality,24
+2020-06-08,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-06-08,5,Palpa,Mathagadhi Rural Municipality,1
+2020-06-08,5,Pyuthan,Pyuthan Municipality,8
+2020-06-08,5,Rupandehi,Siyari Rural Municipality,5
+2020-06-08,6,Dailekh,Mahabu Rural Municipality,10
+2020-06-08,6,Salyan,Sharada Municipality,5
+2020-06-08,6,Surkhet,Birendranagar Municipality,1
+2020-06-09,1,Ilam,Illam Municipality,1
+2020-06-09,1,Morang,Belbari Municipality,3
+2020-06-09,1,Sunsari,Ramdhuni Municipality,1
+2020-06-09,2,Dhanusa,Dhanusadham Municipality,45
+2020-06-09,2,Mahottari,Aurahi Municipality,50
+2020-06-09,2,Rautahat,Brindaban Municipality,21
+2020-06-09,2,Saptari,Rupani Rural Municipality,7
+2020-06-09,2,Sarlahi,Haripur Municipality,17
+2020-06-09,2,Siraha,Dhangadhimai Municipality,12
+2020-06-09,3,Chitwan,Bharatpur Metropolitan City,24
+2020-06-09,3,Dhading,Netrawati Rural Municipality,1
+2020-06-09,3,Nuwakot,Suryagadhi Rural Municipality,2
+2020-06-09,4,Baglung,Dhorpatan Municipality,11
+2020-06-09,4,Myagdi,Raghuganga Rural Municipality,1
+2020-06-09,4,Nawalparasi East,Hupsekot Rural Municipality,15
+2020-06-09,5,Banke,Rapti Sonari Rural Municipality,9
+2020-06-09,5,Dang,Ghorahi Submetropolitan City,6
+2020-06-09,5,Kapilbastu,Buddhabhumi Municipality,10
+2020-06-09,5,Nawalparasi West,Sarawal Rural Municipality,12
+2020-06-09,5,Rupandehi,Siyari Rural Municipality,20
+2020-06-09,6,Jumla,Guthichaur Rural Municipality,2
+2020-06-09,6,Salyan,Sharada Municipality,12
+2020-06-09,6,Surkhet,Birendranagar Municipality,4
+2020-06-09,7,Dadeldhura,Alital Rural Municipality,7
+2020-06-09,7,Darchula,Apihimal Rural Municipality,10
+2020-06-09,7,Kailali,Gauriganga Municipality,1
+2020-06-09,7,Kanchanpur,Shuklaphanta National Park National Park,19
+2020-06-10,1,Jhapa,Barhadashi Rural Municipality,5
+2020-06-10,1,Morang,Belbari Municipality,8
+2020-06-10,1,Udayapur,Triyuga Municipality,4
+2020-06-10,2,Dhanusa,Dhanusadham Municipality,11
+2020-06-10,2,Rautahat,Brindaban Municipality,53
+2020-06-10,2,Saptari,Rupani Rural Municipality,6
+2020-06-10,2,Sarlahi,Haripur Municipality,27
+2020-06-10,2,Siraha,Dhangadhimai Municipality,1
+2020-06-10,3,Chitwan,Bharatpur Metropolitan City,2
+2020-06-10,3,Dhading,Netrawati Rural Municipality,16
+2020-06-10,3,Kathmandu,Budhanilakantha Municipality,3
+2020-06-10,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-06-10,3,Sindhupalchok,Jugal Rural Municipality,2
+2020-06-10,4,Gorkha,Dharche Rural Municipality,4
+2020-06-10,4,Nawalparasi East,Hupsekot Rural Municipality,1
+2020-06-10,5,Banke,Rapti Sonari Rural Municipality,3
+2020-06-10,5,Bardiya,Bardiya National Park National Park,1
+2020-06-10,5,Kapilbastu,Buddhabhumi Municipality,48
+2020-06-10,5,Nawalparasi West,Sarawal Rural Municipality,5
+2020-06-10,5,Palpa,Mathagadhi Rural Municipality,12
+2020-06-10,5,Pyuthan,Pyuthan Municipality,6
+2020-06-10,5,Rupandehi,Siyari Rural Municipality,7
+2020-06-10,6,Dailekh,Mahabu Rural Municipality,25
+2020-06-10,6,Jajarkot,Kuse Rural Municipality,3
+2020-06-10,6,Surkhet,Birendranagar Municipality,9
+2020-06-10,7,Dadeldhura,Alital Rural Municipality,1
+2020-06-10,7,Darchula,Apihimal Rural Municipality,1
+2020-06-10,7,Kailali,Gauriganga Municipality,12
+2020-06-10,7,Kanchanpur,Shuklaphanta National Park National Park,2
+2020-06-11,1,Jhapa,Barhadashi Rural Municipality,3
+2020-06-11,1,Sunsari,Ramdhuni Municipality,3
+2020-06-11,2,Bara,Jitpur Simara Submetropolitan City,7
+2020-06-11,2,Mahottari,Aurahi Municipality,4
+2020-06-11,2,Rautahat,Brindaban Municipality,57
+2020-06-11,2,Saptari,Rupani Rural Municipality,9
+2020-06-11,2,Sarlahi,Haripur Municipality,2
+2020-06-11,3,Dhading,Netrawati Rural Municipality,7
+2020-06-11,5,Banke,Rapti Sonari Rural Municipality,13
+2020-06-11,5,Dang,Ghorahi Submetropolitan City,8
+2020-06-11,5,Kapilbastu,Buddhabhumi Municipality,2
+2020-06-11,5,Nawalparasi West,Sarawal Rural Municipality,6
+2020-06-11,5,Pyuthan,Pyuthan Municipality,4
+2020-06-11,5,Rolpa,Rolpa Municipality,14
+2020-06-11,5,Rupandehi,Siyari Rural Municipality,29
+2020-06-11,6,Dailekh,Mahabu Rural Municipality,48
+2020-06-11,6,Surkhet,Birendranagar Municipality,7
+2020-06-11,7,Bajhang,Surma Rural Municipality,2
+2020-06-11,7,Bajura,Gaumul Rural Municipality,18
+2020-06-11,7,Kailali,Gauriganga Municipality,7
+2020-06-12,1,Ilam,Illam Municipality,1
+2020-06-12,1,Jhapa,Barhadashi Rural Municipality,13
+2020-06-12,1,Morang,Belbari Municipality,3
+2020-06-12,1,Sunsari,Ramdhuni Municipality,10
+2020-06-12,1,Udayapur,Triyuga Municipality,3
+2020-06-12,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-06-12,2,Dhanusa,Dhanusadham Municipality,15
+2020-06-12,2,Mahottari,Aurahi Municipality,16
+2020-06-12,2,Rautahat,Brindaban Municipality,86
+2020-06-12,2,Saptari,Rupani Rural Municipality,17
+2020-06-12,2,Sarlahi,Haripur Municipality,57
+2020-06-12,2,Siraha,Dhangadhimai Municipality,11
+2020-06-12,3,Chitwan,Bharatpur Metropolitan City,8
+2020-06-12,3,Dhading,Netrawati Rural Municipality,28
+2020-06-12,3,Kathmandu,Budhanilakantha Municipality,1
+2020-06-12,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-06-12,4,Nawalparasi East,Hupsekot Rural Municipality,5
+2020-06-12,4,Parbat,Kushma Municipality,13
+2020-06-12,4,Syangja,Bhirkot Municipality,22
+2020-06-12,4,Tanahu,Byas Municipality,1
+2020-06-12,5,Arghakhanchi,Sitganga Municipality,3
+2020-06-12,5,Banke,Rapti Sonari Rural Municipality,1
+2020-06-12,5,Bardiya,Bardiya National Park National Park,15
+2020-06-12,5,Dang,Ghorahi Submetropolitan City,8
+2020-06-12,5,Gulmi,Resunga Municipality,1
+2020-06-12,5,Kapilbastu,Buddhabhumi Municipality,4
+2020-06-12,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-06-12,5,Palpa,Mathagadhi Rural Municipality,1
+2020-06-12,5,Pyuthan,Pyuthan Municipality,2
+2020-06-12,5,Rupandehi,Siyari Rural Municipality,16
+2020-06-12,6,Dailekh,Mahabu Rural Municipality,38
+2020-06-12,6,Surkhet,Birendranagar Municipality,45
+2020-06-13,1,Jhapa,Barhadashi Rural Municipality,5
+2020-06-13,1,Morang,Belbari Municipality,4
+2020-06-13,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-06-13,2,Mahottari,Aurahi Municipality,1
+2020-06-13,2,Parsa,Paterwasugauli Rural Municipality,6
+2020-06-13,2,Rautahat,Brindaban Municipality,92
+2020-06-13,2,Sarlahi,Haripur Municipality,13
+2020-06-13,3,Kathmandu,Budhanilakantha Municipality,1
+2020-06-13,4,Parbat,Kushma Municipality,4
+2020-06-13,5,Banke,Rapti Sonari Rural Municipality,18
+2020-06-13,5,Bardiya,Bardiya National Park National Park,6
+2020-06-13,5,Dang,Ghorahi Submetropolitan City,2
+2020-06-13,5,Gulmi,Resunga Municipality,2
+2020-06-13,5,Kapilbastu,Buddhabhumi Municipality,25
+2020-06-13,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-06-13,5,Rolpa,Rolpa Municipality,17
+2020-06-13,5,Rupandehi,Siyari Rural Municipality,5
+2020-06-13,6,Dailekh,Mahabu Rural Municipality,30
+2020-06-13,6,Surkhet,Birendranagar Municipality,40
+2020-06-14,1,Jhapa,Barhadashi Rural Municipality,1
+2020-06-14,1,Morang,Belbari Municipality,25
+2020-06-14,1,Sunsari,Ramdhuni Municipality,1
+2020-06-14,2,Bara,Jitpur Simara Submetropolitan City,9
+2020-06-14,2,Dhanusa,Dhanusadham Municipality,1
+2020-06-14,2,Parsa,Paterwasugauli Rural Municipality,17
+2020-06-14,2,Rautahat,Brindaban Municipality,24
+2020-06-14,2,Saptari,Rupani Rural Municipality,10
+2020-06-14,2,Sarlahi,Haripur Municipality,1
+2020-06-14,3,Ramechhap,Gokulganga Rural Municipality,2
+2020-06-14,4,Nawalparasi East,Hupsekot Rural Municipality,2
+2020-06-14,5,Banke,Rapti Sonari Rural Municipality,3
+2020-06-14,5,Bardiya,Bardiya National Park National Park,3
+2020-06-14,5,Dang,Ghorahi Submetropolitan City,54
+2020-06-14,5,Gulmi,Resunga Municipality,6
+2020-06-14,5,Pyuthan,Pyuthan Municipality,2
+2020-06-14,6,Rukum West,Banfikot Rural Municipality,1
+2020-06-14,7,Bajhang,Surma Rural Municipality,5
+2020-06-14,7,Dadeldhura,Alital Rural Municipality,24
+2020-06-14,7,Doti,Shikhar Municipality,3
+2020-06-14,7,Kailali,Gauriganga Municipality,12
+2020-06-14,7,Kanchanpur,Shuklaphanta National Park National Park,20
+2020-06-15,1,Jhapa,Barhadashi Rural Municipality,1
+2020-06-15,1,Morang,Belbari Municipality,22
+2020-06-15,1,Sunsari,Ramdhuni Municipality,3
+2020-06-15,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-06-15,2,Dhanusa,Dhanusadham Municipality,4
+2020-06-15,2,Mahottari,Aurahi Municipality,30
+2020-06-15,2,Parsa,Paterwasugauli Rural Municipality,10
+2020-06-15,2,Rautahat,Brindaban Municipality,154
+2020-06-15,2,Sarlahi,Haripur Municipality,28
+2020-06-15,2,Siraha,Dhangadhimai Municipality,4
+2020-06-15,3,Chitwan,Bharatpur Metropolitan City,1
+2020-06-15,3,Dhading,Netrawati Rural Municipality,34
+2020-06-15,3,Kathmandu,Budhanilakantha Municipality,4
+2020-06-15,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-06-15,3,Nuwakot,Suryagadhi Rural Municipality,3
+2020-06-15,3,Sindhuli,Kamalamai Municipality,1
+2020-06-15,4,Tanahu,Byas Municipality,5
+2020-06-15,5,Arghakhanchi,Sitganga Municipality,3
+2020-06-15,5,Banke,Rapti Sonari Rural Municipality,5
+2020-06-15,5,Bardiya,Bardiya National Park National Park,16
+2020-06-15,5,Dang,Ghorahi Submetropolitan City,43
+2020-06-15,5,Gulmi,Resunga Municipality,11
+2020-06-15,5,Kapilbastu,Buddhabhumi Municipality,1
+2020-06-15,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-06-15,5,Palpa,Mathagadhi Rural Municipality,27
+2020-06-15,5,Pyuthan,Pyuthan Municipality,3
+2020-06-15,5,Rolpa,Rolpa Municipality,4
+2020-06-15,5,Rupandehi,Siyari Rural Municipality,38
+2020-06-15,6,Dailekh,Mahabu Rural Municipality,122
+2020-06-15,6,Surkhet,Birendranagar Municipality,59
+2020-06-15,7,Achham,Mangalsen Municipality,3
+2020-06-15,7,Doti,Shikhar Municipality,4
+2020-06-15,7,Kailali,Gauriganga Municipality,3
+2020-06-16,1,Jhapa,Barhadashi Rural Municipality,1
+2020-06-16,1,Morang,Belbari Municipality,1
+2020-06-16,1,Panchthar,Phidim Municipality,1
+2020-06-16,1,Sunsari,Ramdhuni Municipality,2
+2020-06-16,2,Dhanusa,Dhanusadham Municipality,21
+2020-06-16,2,Mahottari,Aurahi Municipality,89
+2020-06-16,2,Parsa,Paterwasugauli Rural Municipality,2
+2020-06-16,2,Rautahat,Brindaban Municipality,52
+2020-06-16,2,Saptari,Rupani Rural Municipality,3
+2020-06-16,2,Sarlahi,Haripur Municipality,15
+2020-06-16,2,Siraha,Dhangadhimai Municipality,2
+2020-06-16,3,Kathmandu,Budhanilakantha Municipality,1
+2020-06-16,3,Ramechhap,Gokulganga Rural Municipality,1
+2020-06-16,4,Baglung,Dhorpatan Municipality,1
+2020-06-16,4,Gorkha,Dharche Rural Municipality,10
+2020-06-16,4,Kaski,Machhapuchchhre Rural Municipality,3
+2020-06-16,4,Nawalparasi East,Hupsekot Rural Municipality,3
+2020-06-16,4,Syangja,Bhirkot Municipality,4
+2020-06-16,4,Tanahu,Byas Municipality,2
+2020-06-16,5,Arghakhanchi,Sitganga Municipality,9
+2020-06-16,5,Banke,Rapti Sonari Rural Municipality,1
+2020-06-16,5,Bardiya,Bardiya National Park National Park,9
+2020-06-16,5,Dang,Ghorahi Submetropolitan City,56
+2020-06-16,5,Rolpa,Rolpa Municipality,1
+2020-06-16,5,Rupandehi,Siyari Rural Municipality,4
+2020-06-16,6,Dailekh,Mahabu Rural Municipality,5
+2020-06-16,6,Salyan,Sharada Municipality,1
+2020-06-16,6,Surkhet,Birendranagar Municipality,4
+2020-06-16,7,Achham,Mangalsen Municipality,1
+2020-06-16,7,Baitadi,Patan Municipality,21
+2020-06-16,7,Doti,Shikhar Municipality,20
+2020-06-16,7,Kailali,Gauriganga Municipality,23
+2020-06-16,7,Kanchanpur,Shuklaphanta National Park National Park,11
+2020-06-17,1,Jhapa,Barhadashi Rural Municipality,2
+2020-06-17,1,Morang,Belbari Municipality,9
+2020-06-17,1,Udayapur,Triyuga Municipality,4
+2020-06-17,2,Bara,Jitpur Simara Submetropolitan City,7
+2020-06-17,2,Dhanusa,Dhanusadham Municipality,26
+2020-06-17,2,Mahottari,Aurahi Municipality,200
+2020-06-17,2,Rautahat,Brindaban Municipality,127
+2020-06-17,2,Sarlahi,Haripur Municipality,6
+2020-06-17,2,Siraha,Dhangadhimai Municipality,1
+2020-06-17,4,Nawalparasi East,Hupsekot Rural Municipality,17
+2020-06-17,4,Parbat,Kushma Municipality,3
+2020-06-17,5,Arghakhanchi,Sitganga Municipality,12
+2020-06-17,5,Banke,Rapti Sonari Rural Municipality,1
+2020-06-17,5,Bardiya,Bardiya National Park National Park,31
+2020-06-17,5,Dang,Ghorahi Submetropolitan City,8
+2020-06-17,5,Gulmi,Resunga Municipality,26
+2020-06-17,5,Kapilbastu,Buddhabhumi Municipality,10
+2020-06-17,5,Pyuthan,Pyuthan Municipality,38
+2020-06-17,5,Rupandehi,Siyari Rural Municipality,7
+2020-06-17,6,Dailekh,Mahabu Rural Municipality,2
+2020-06-17,6,Kalikot,Pachaljharana Rural Municipality,14
+2020-06-17,6,Salyan,Sharada Municipality,25
+2020-06-17,6,Surkhet,Birendranagar Municipality,2
+2020-06-17,7,Kailali,Gauriganga Municipality,1
+2020-06-17,7,Kanchanpur,Shuklaphanta National Park National Park,7
+2020-06-18,1,Jhapa,Barhadashi Rural Municipality,2
+2020-06-18,1,Morang,Belbari Municipality,1
+2020-06-18,2,Dhanusa,Dhanusadham Municipality,29
+2020-06-18,2,Mahottari,Aurahi Municipality,1
+2020-06-18,2,Rautahat,Brindaban Municipality,34
+2020-06-18,2,Sarlahi,Haripur Municipality,2
+2020-06-18,3,Bhaktapur,Bhaktapur Municipality,3
+2020-06-18,3,Chitwan,Bharatpur Metropolitan City,1
+2020-06-18,3,Kathmandu,Budhanilakantha Municipality,2
+2020-06-18,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-06-18,3,Nuwakot,Suryagadhi Rural Municipality,2
+2020-06-18,3,Sindhuli,Kamalamai Municipality,1
+2020-06-18,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-06-18,4,Baglung,Dhorpatan Municipality,1
+2020-06-18,4,Gorkha,Dharche Rural Municipality,11
+2020-06-18,4,Manang,Narphu Rural Municipality,1
+2020-06-18,4,Nawalparasi East,Hupsekot Rural Municipality,31
+2020-06-18,4,Parbat,Kushma Municipality,9
+2020-06-18,4,Syangja,Bhirkot Municipality,9
+2020-06-18,4,Tanahu,Byas Municipality,15
+2020-06-18,5,Arghakhanchi,Sitganga Municipality,97
+2020-06-18,5,Banke,Rapti Sonari Rural Municipality,3
+2020-06-18,5,Bardiya,Bardiya National Park National Park,3
+2020-06-18,5,Dang,Ghorahi Submetropolitan City,4
+2020-06-18,5,Gulmi,Resunga Municipality,3
+2020-06-18,5,Kapilbastu,Buddhabhumi Municipality,17
+2020-06-18,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-06-18,5,Palpa,Mathagadhi Rural Municipality,6
+2020-06-18,5,Rolpa,Rolpa Municipality,1
+2020-06-18,5,Rupandehi,Siyari Rural Municipality,12
+2020-06-18,6,Dailekh,Mahabu Rural Municipality,87
+2020-06-18,6,Surkhet,Birendranagar Municipality,34
+2020-06-18,7,Achham,Mangalsen Municipality,44
+2020-06-18,7,Baitadi,Patan Municipality,25
+2020-06-18,7,Bajhang,Surma Rural Municipality,2
+2020-06-18,7,Bajura,Gaumul Rural Municipality,41
+2020-06-18,7,Dadeldhura,Alital Rural Municipality,84
+2020-06-18,7,Doti,Shikhar Municipality,5
+2020-06-18,7,Kailali,Gauriganga Municipality,42
+2020-06-18,7,Kanchanpur,Shuklaphanta National Park National Park,2
+2020-06-19,1,Jhapa,Barhadashi Rural Municipality,1
+2020-06-19,1,Morang,Belbari Municipality,3
+2020-06-19,1,Udayapur,Triyuga Municipality,2
+2020-06-19,2,Saptari,Rupani Rural Municipality,4
+2020-06-19,2,Sarlahi,Haripur Municipality,11
+2020-06-19,3,Chitwan,Bharatpur Metropolitan City,1
+2020-06-19,3,Dhading,Netrawati Rural Municipality,1
+2020-06-19,3,Kathmandu,Budhanilakantha Municipality,3
+2020-06-19,3,Makwanpur,Makawanpurgadhi Rural Municipality,8
+2020-06-19,3,Sindhuli,Kamalamai Municipality,1
+2020-06-19,3,Sindhupalchok,Jugal Rural Municipality,21
+2020-06-19,4,Baglung,Dhorpatan Municipality,32
+2020-06-19,4,Gorkha,Dharche Rural Municipality,11
+2020-06-19,4,Kaski,Machhapuchchhre Rural Municipality,8
+2020-06-19,4,Myagdi,Raghuganga Rural Municipality,1
+2020-06-19,4,Nawalparasi East,Hupsekot Rural Municipality,4
+2020-06-19,4,Parbat,Kushma Municipality,5
+2020-06-19,4,Syangja,Bhirkot Municipality,3
+2020-06-19,4,Tanahu,Byas Municipality,19
+2020-06-19,5,Arghakhanchi,Sitganga Municipality,6
+2020-06-19,5,Gulmi,Resunga Municipality,94
+2020-06-19,5,Kapilbastu,Buddhabhumi Municipality,4
+2020-06-19,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-06-19,5,Rupandehi,Siyari Rural Municipality,2
+2020-06-19,7,Achham,Mangalsen Municipality,8
+2020-06-19,7,Baitadi,Patan Municipality,68
+2020-06-19,7,Bajhang,Surma Rural Municipality,3
+2020-06-19,7,Bajura,Gaumul Rural Municipality,8
+2020-06-19,7,Dadeldhura,Alital Rural Municipality,9
+2020-06-19,7,Doti,Shikhar Municipality,15
+2020-06-19,7,Kailali,Gauriganga Municipality,49
+2020-06-19,7,Kanchanpur,Shuklaphanta National Park National Park,20
+2020-06-20,1,Jhapa,Barhadashi Rural Municipality,1
+2020-06-20,1,Morang,Belbari Municipality,8
+2020-06-20,1,Sunsari,Ramdhuni Municipality,2
+2020-06-20,2,Bara,Jitpur Simara Submetropolitan City,4
+2020-06-20,2,Mahottari,Aurahi Municipality,24
+2020-06-20,2,Rautahat,Brindaban Municipality,7
+2020-06-20,2,Sarlahi,Haripur Municipality,9
+2020-06-20,3,Bhaktapur,Bhaktapur Municipality,7
+2020-06-20,3,Dhading,Netrawati Rural Municipality,8
+2020-06-20,3,Kathmandu,Budhanilakantha Municipality,1
+2020-06-20,3,Ramechhap,Gokulganga Rural Municipality,3
+2020-06-20,4,Baglung,Dhorpatan Municipality,20
+2020-06-20,4,Nawalparasi East,Hupsekot Rural Municipality,32
+2020-06-20,4,Syangja,Bhirkot Municipality,1
+2020-06-20,4,Tanahu,Byas Municipality,23
+2020-06-20,5,Banke,Rapti Sonari Rural Municipality,14
+2020-06-20,5,Bardiya,Bardiya National Park National Park,7
+2020-06-20,5,Dang,Ghorahi Submetropolitan City,4
+2020-06-20,5,Gulmi,Resunga Municipality,18
+2020-06-20,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-06-20,5,Palpa,Mathagadhi Rural Municipality,33
+2020-06-20,5,Pyuthan,Pyuthan Municipality,8
+2020-06-20,5,Rupandehi,Siyari Rural Municipality,1
+2020-06-20,6,Rukum West,Banfikot Rural Municipality,1
+2020-06-20,7,Baitadi,Patan Municipality,18
+2020-06-20,7,Dadeldhura,Alital Rural Municipality,12
+2020-06-20,7,Doti,Shikhar Municipality,61
+2020-06-20,7,Kailali,Gauriganga Municipality,3
+2020-06-21,1,Jhapa,Barhadashi Rural Municipality,6
+2020-06-21,1,Morang,Belbari Municipality,2
+2020-06-21,1,Sunsari,Ramdhuni Municipality,2
+2020-06-21,1,Udayapur,Triyuga Municipality,5
+2020-06-21,2,Bara,Jitpur Simara Submetropolitan City,3
+2020-06-21,2,Dhanusa,Dhanusadham Municipality,8
+2020-06-21,2,Mahottari,Aurahi Municipality,2
+2020-06-21,2,Saptari,Rupani Rural Municipality,2
+2020-06-21,2,Sarlahi,Haripur Municipality,5
+2020-06-21,2,Siraha,Dhangadhimai Municipality,52
+2020-06-21,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-06-21,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-06-21,3,Ramechhap,Gokulganga Rural Municipality,1
+2020-06-21,4,Baglung,Dhorpatan Municipality,23
+2020-06-21,4,Kaski,Machhapuchchhre Rural Municipality,1
+2020-06-21,4,Mustang,Dalome Rural Municipality,1
+2020-06-21,4,Myagdi,Raghuganga Rural Municipality,4
+2020-06-21,4,Nawalparasi East,Hupsekot Rural Municipality,2
+2020-06-21,4,Parbat,Kushma Municipality,2
+2020-06-21,4,Syangja,Bhirkot Municipality,10
+2020-06-21,4,Tanahu,Byas Municipality,4
+2020-06-21,5,Arghakhanchi,Sitganga Municipality,74
+2020-06-21,5,Banke,Rapti Sonari Rural Municipality,1
+2020-06-21,5,Bardiya,Bardiya National Park National Park,3
+2020-06-21,5,Dang,Ghorahi Submetropolitan City,10
+2020-06-21,5,Gulmi,Resunga Municipality,7
+2020-06-21,5,Kapilbastu,Buddhabhumi Municipality,25
+2020-06-21,5,Nawalparasi West,Sarawal Rural Municipality,23
+2020-06-21,5,Palpa,Mathagadhi Rural Municipality,4
+2020-06-21,5,Pyuthan,Pyuthan Municipality,20
+2020-06-21,5,Rolpa,Rolpa Municipality,4
+2020-06-21,5,Rupandehi,Siyari Rural Municipality,2
+2020-06-21,6,Dailekh,Mahabu Rural Municipality,1
+2020-06-21,6,Salyan,Sharada Municipality,6
+2020-06-21,6,Surkhet,Birendranagar Municipality,2
+2020-06-21,7,Achham,Mangalsen Municipality,2
+2020-06-21,7,Baitadi,Patan Municipality,2
+2020-06-21,7,Bajhang,Surma Rural Municipality,2
+2020-06-21,7,Dadeldhura,Alital Rural Municipality,41
+2020-06-21,7,Doti,Shikhar Municipality,27
+2020-06-21,7,Kailali,Gauriganga Municipality,27
+2020-06-21,7,Kanchanpur,Shuklaphanta National Park National Park,1
+2020-06-22,1,Jhapa,Barhadashi Rural Municipality,3
+2020-06-22,1,Morang,Belbari Municipality,12
+2020-06-22,1,Okhaldhunga,Molung Rural Municipality,1
+2020-06-22,2,Dhanusa,Dhanusadham Municipality,10
+2020-06-22,2,Mahottari,Aurahi Municipality,1
+2020-06-22,2,Rautahat,Brindaban Municipality,34
+2020-06-22,2,Saptari,Rupani Rural Municipality,15
+2020-06-22,2,Sarlahi,Haripur Municipality,47
+2020-06-22,2,Siraha,Dhangadhimai Municipality,23
+2020-06-22,3,Chitwan,Bharatpur Metropolitan City,5
+2020-06-22,3,Sindhupalchok,Jugal Rural Municipality,2
+2020-06-22,4,Nawalparasi East,Hupsekot Rural Municipality,24
+2020-06-22,4,Syangja,Bhirkot Municipality,33
+2020-06-22,4,Tanahu,Byas Municipality,11
+2020-06-22,5,Arghakhanchi,Sitganga Municipality,9
+2020-06-22,5,Dang,Ghorahi Submetropolitan City,13
+2020-06-22,5,Gulmi,Resunga Municipality,56
+2020-06-22,5,Nawalparasi West,Sarawal Rural Municipality,5
+2020-06-22,5,Palpa,Mathagadhi Rural Municipality,90
+2020-06-22,5,Pyuthan,Pyuthan Municipality,30
+2020-06-22,5,Rupandehi,Siyari Rural Municipality,12
+2020-06-22,6,Jajarkot,Kuse Rural Municipality,1
+2020-06-22,7,Achham,Mangalsen Municipality,2
+2020-06-22,7,Baitadi,Patan Municipality,14
+2020-06-22,7,Dadeldhura,Alital Rural Municipality,15
+2020-06-22,7,Doti,Shikhar Municipality,7
+2020-06-22,7,Kailali,Gauriganga Municipality,58
+2020-06-23,1,Jhapa,Barhadashi Rural Municipality,12
+2020-06-23,1,Morang,Belbari Municipality,2
+2020-06-23,1,Sunsari,Ramdhuni Municipality,3
+2020-06-23,1,Terhathum,Phedap Rural Municipality,2
+2020-06-23,2,Dhanusa,Dhanusadham Municipality,39
+2020-06-23,2,Mahottari,Aurahi Municipality,12
+2020-06-23,2,Rautahat,Brindaban Municipality,13
+2020-06-23,2,Saptari,Rupani Rural Municipality,22
+2020-06-23,2,Sarlahi,Haripur Municipality,2
+2020-06-23,2,Siraha,Dhangadhimai Municipality,7
+2020-06-23,3,Dhading,Netrawati Rural Municipality,18
+2020-06-23,4,Baglung,Dhorpatan Municipality,14
+2020-06-23,4,Gorkha,Dharche Rural Municipality,29
+2020-06-23,4,Kaski,Machhapuchchhre Rural Municipality,8
+2020-06-23,4,Lamjung,Marsyangdi Rural Municipality,5
+2020-06-23,4,Nawalparasi East,Hupsekot Rural Municipality,22
+2020-06-23,4,Parbat,Kushma Municipality,22
+2020-06-23,4,Syangja,Bhirkot Municipality,22
+2020-06-23,4,Tanahu,Byas Municipality,8
+2020-06-23,5,Arghakhanchi,Sitganga Municipality,2
+2020-06-23,5,Dang,Ghorahi Submetropolitan City,19
+2020-06-23,5,Gulmi,Resunga Municipality,5
+2020-06-23,5,Palpa,Mathagadhi Rural Municipality,48
+2020-06-23,5,Pyuthan,Pyuthan Municipality,50
+2020-06-23,5,Rupandehi,Siyari Rural Municipality,3
+2020-06-23,6,Dailekh,Mahabu Rural Municipality,22
+2020-06-23,6,Humla,Simkot Rural Municipality,1
+2020-06-23,6,Kalikot,Pachaljharana Rural Municipality,1
+2020-06-23,6,Salyan,Sharada Municipality,4
+2020-06-23,6,Surkhet,Birendranagar Municipality,23
+2020-06-23,7,Achham,Mangalsen Municipality,7
+2020-06-23,7,Bajhang,Surma Rural Municipality,14
+2020-06-23,7,Bajura,Gaumul Rural Municipality,20
+2020-06-23,7,Dadeldhura,Alital Rural Municipality,4
+2020-06-23,7,Kailali,Gauriganga Municipality,38
+2020-06-23,7,Kanchanpur,Shuklaphanta National Park National Park,17
+2020-06-24,1,Jhapa,Barhadashi Rural Municipality,11
+2020-06-24,1,Morang,Belbari Municipality,1
+2020-06-24,1,Sunsari,Ramdhuni Municipality,1
+2020-06-24,2,Dhanusa,Dhanusadham Municipality,20
+2020-06-24,2,Mahottari,Aurahi Municipality,12
+2020-06-24,2,Rautahat,Brindaban Municipality,44
+2020-06-24,2,Saptari,Rupani Rural Municipality,6
+2020-06-24,2,Sarlahi,Haripur Municipality,21
+2020-06-24,3,Bhaktapur,Bhaktapur Municipality,1
+2020-06-24,3,Chitwan,Bharatpur Metropolitan City,1
+2020-06-24,3,Dhading,Netrawati Rural Municipality,2
+2020-06-24,3,Kathmandu,Budhanilakantha Municipality,1
+2020-06-24,4,Baglung,Dhorpatan Municipality,9
+2020-06-24,4,Gorkha,Dharche Rural Municipality,3
+2020-06-24,4,Kaski,Machhapuchchhre Rural Municipality,9
+2020-06-24,4,Lamjung,Marsyangdi Rural Municipality,5
+2020-06-24,4,Nawalparasi East,Hupsekot Rural Municipality,13
+2020-06-24,4,Parbat,Kushma Municipality,3
+2020-06-24,4,Syangja,Bhirkot Municipality,7
+2020-06-24,4,Tanahu,Byas Municipality,1
+2020-06-24,5,Banke,Rapti Sonari Rural Municipality,9
+2020-06-24,5,Bardiya,Bardiya National Park National Park,1
+2020-06-24,5,Dang,Ghorahi Submetropolitan City,76
+2020-06-24,5,Gulmi,Resunga Municipality,5
+2020-06-24,5,Kapilbastu,Buddhabhumi Municipality,1
+2020-06-24,5,Palpa,Mathagadhi Rural Municipality,15
+2020-06-24,5,Pyuthan,Pyuthan Municipality,10
+2020-06-24,5,Rupandehi,Siyari Rural Municipality,1
+2020-06-24,6,Dailekh,Mahabu Rural Municipality,4
+2020-06-24,6,Jajarkot,Kuse Rural Municipality,1
+2020-06-24,6,Kalikot,Pachaljharana Rural Municipality,1
+2020-06-24,6,Surkhet,Birendranagar Municipality,14
+2020-06-24,7,Achham,Mangalsen Municipality,23
+2020-06-24,7,Baitadi,Patan Municipality,4
+2020-06-24,7,Bajura,Gaumul Rural Municipality,8
+2020-06-24,7,Doti,Shikhar Municipality,48
+2020-06-24,7,Kailali,Gauriganga Municipality,151
+2020-06-24,7,Kanchanpur,Shuklaphanta National Park National Park,86
+2020-06-25,1,Ilam,Illam Municipality,2
+2020-06-25,1,Jhapa,Barhadashi Rural Municipality,1
+2020-06-25,1,Khotang,Rupakot Majhuwagadhi Municipality,1
+2020-06-25,1,Morang,Belbari Municipality,1
+2020-06-25,1,Okhaldhunga,Molung Rural Municipality,2
+2020-06-25,1,Sunsari,Ramdhuni Municipality,6
+2020-06-25,1,Taplejung,Phaktanglung Rural Municipality,3
+2020-06-25,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-06-25,2,Dhanusa,Dhanusadham Municipality,9
+2020-06-25,2,Mahottari,Aurahi Municipality,5
+2020-06-25,2,Rautahat,Brindaban Municipality,38
+2020-06-25,2,Saptari,Rupani Rural Municipality,8
+2020-06-25,2,Sarlahi,Haripur Municipality,5
+2020-06-25,2,Siraha,Dhangadhimai Municipality,2
+2020-06-25,3,Bhaktapur,Bhaktapur Municipality,4
+2020-06-25,3,Dhading,Netrawati Rural Municipality,2
+2020-06-25,3,Kathmandu,Budhanilakantha Municipality,4
+2020-06-25,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-06-25,3,Ramechhap,Gokulganga Rural Municipality,2
+2020-06-25,4,Baglung,Dhorpatan Municipality,2
+2020-06-25,4,Gorkha,Dharche Rural Municipality,2
+2020-06-25,4,Kaski,Machhapuchchhre Rural Municipality,1
+2020-06-25,4,Lamjung,Marsyangdi Rural Municipality,2
+2020-06-25,4,Myagdi,Raghuganga Rural Municipality,6
+2020-06-25,4,Syangja,Bhirkot Municipality,1
+2020-06-25,4,Tanahu,Byas Municipality,9
+2020-06-25,5,Banke,Rapti Sonari Rural Municipality,4
+2020-06-25,5,Bardiya,Bardiya National Park National Park,6
+2020-06-25,5,Dang,Ghorahi Submetropolitan City,1
+2020-06-25,5,Gulmi,Resunga Municipality,1
+2020-06-25,5,Nawalparasi West,Sarawal Rural Municipality,8
+2020-06-25,5,Palpa,Mathagadhi Rural Municipality,122
+2020-06-25,5,Pyuthan,Pyuthan Municipality,7
+2020-06-25,5,Rukum East,Putha Uttarganga Rural Municipality,1
+2020-06-25,5,Rupandehi,Siyari Rural Municipality,7
+2020-06-25,6,Dailekh,Mahabu Rural Municipality,19
+2020-06-25,6,Dolpa,Shey Phoksundo Rural Municipality,1
+2020-06-25,6,Jumla,Guthichaur Rural Municipality,2
+2020-06-25,6,Kalikot,Pachaljharana Rural Municipality,3
+2020-06-25,6,Salyan,Sharada Municipality,1
+2020-06-25,6,Surkhet,Birendranagar Municipality,13
+2020-06-25,7,Achham,Mangalsen Municipality,13
+2020-06-25,7,Baitadi,Patan Municipality,3
+2020-06-25,7,Bajhang,Surma Rural Municipality,18
+2020-06-25,7,Bajura,Gaumul Rural Municipality,8
+2020-06-25,7,Dadeldhura,Alital Rural Municipality,12
+2020-06-25,7,Darchula,Apihimal Rural Municipality,1
+2020-06-25,7,Kailali,Gauriganga Municipality,3
+2020-06-25,7,Kanchanpur,Shuklaphanta National Park National Park,60
+2020-06-26,1,Jhapa,Barhadashi Rural Municipality,4
+2020-06-26,1,Morang,Belbari Municipality,2
+2020-06-26,1,Sunsari,Ramdhuni Municipality,10
+2020-06-26,2,Bara,Jitpur Simara Submetropolitan City,2
+2020-06-26,2,Dhanusa,Dhanusadham Municipality,15
+2020-06-26,2,Mahottari,Aurahi Municipality,4
+2020-06-26,2,Rautahat,Brindaban Municipality,51
+2020-06-26,2,Siraha,Dhangadhimai Municipality,6
+2020-06-26,3,Chitwan,Bharatpur Metropolitan City,12
+2020-06-26,3,Kathmandu,Budhanilakantha Municipality,3
+2020-06-26,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-06-26,3,Sindhuli,Kamalamai Municipality,3
+2020-06-26,4,Baglung,Dhorpatan Municipality,1
+2020-06-26,4,Gorkha,Dharche Rural Municipality,6
+2020-06-26,4,Kaski,Machhapuchchhre Rural Municipality,2
+2020-06-26,4,Lamjung,Marsyangdi Rural Municipality,6
+2020-06-26,4,Nawalparasi East,Hupsekot Rural Municipality,23
+2020-06-26,4,Syangja,Bhirkot Municipality,1
+2020-06-26,4,Tanahu,Byas Municipality,2
+2020-06-26,5,Arghakhanchi,Sitganga Municipality,3
+2020-06-26,5,Dang,Ghorahi Submetropolitan City,75
+2020-06-26,5,Gulmi,Resunga Municipality,25
+2020-06-26,5,Kapilbastu,Buddhabhumi Municipality,21
+2020-06-26,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-06-26,5,Palpa,Mathagadhi Rural Municipality,76
+2020-06-26,5,Pyuthan,Pyuthan Municipality,20
+2020-06-26,5,Rupandehi,Siyari Rural Municipality,6
+2020-06-26,6,Dailekh,Mahabu Rural Municipality,5
+2020-06-26,6,Jajarkot,Kuse Rural Municipality,2
+2020-06-26,6,Jumla,Guthichaur Rural Municipality,3
+2020-06-26,6,Mugu,Mugum Karmarong Rural Municipality,1
+2020-06-26,6,Salyan,Sharada Municipality,4
+2020-06-26,6,Surkhet,Birendranagar Municipality,12
+2020-06-26,7,Achham,Mangalsen Municipality,1
+2020-06-26,7,Baitadi,Patan Municipality,25
+2020-06-26,7,Bajhang,Surma Rural Municipality,9
+2020-06-26,7,Bajura,Gaumul Rural Municipality,27
+2020-06-26,7,Darchula,Apihimal Rural Municipality,3
+2020-06-26,7,Doti,Shikhar Municipality,46
+2020-06-26,7,Kailali,Gauriganga Municipality,31
+2020-06-26,7,Kanchanpur,Shuklaphanta National Park National Park,42
+2020-06-27,1,Ilam,Illam Municipality,5
+2020-06-27,1,Morang,Belbari Municipality,2
+2020-06-27,1,Panchthar,Phidim Municipality,1
+2020-06-27,1,Udayapur,Triyuga Municipality,7
+2020-06-27,2,Bara,Jitpur Simara Submetropolitan City,12
+2020-06-27,2,Dhanusa,Dhanusadham Municipality,3
+2020-06-27,2,Mahottari,Aurahi Municipality,30
+2020-06-27,2,Parsa,Paterwasugauli Rural Municipality,3
+2020-06-27,2,Rautahat,Brindaban Municipality,34
+2020-06-27,2,Sarlahi,Haripur Municipality,6
+2020-06-27,3,Bhaktapur,Bhaktapur Municipality,1
+2020-06-27,3,Chitwan,Bharatpur Metropolitan City,2
+2020-06-27,3,Dhading,Netrawati Rural Municipality,3
+2020-06-27,3,Kathmandu,Budhanilakantha Municipality,4
+2020-06-27,3,Makwanpur,Makawanpurgadhi Rural Municipality,2
+2020-06-27,3,Nuwakot,Suryagadhi Rural Municipality,6
+2020-06-27,3,Rasuwa,Gosaikunda Rural Municipality,9
+2020-06-27,4,Baglung,Dhorpatan Municipality,8
+2020-06-27,4,Nawalparasi East,Hupsekot Rural Municipality,2
+2020-06-27,4,Syangja,Bhirkot Municipality,26
+2020-06-27,5,Arghakhanchi,Sitganga Municipality,18
+2020-06-27,5,Banke,Rapti Sonari Rural Municipality,2
+2020-06-27,5,Bardiya,Bardiya National Park National Park,4
+2020-06-27,5,Dang,Ghorahi Submetropolitan City,31
+2020-06-27,5,Gulmi,Resunga Municipality,7
+2020-06-27,5,Kapilbastu,Buddhabhumi Municipality,8
+2020-06-27,5,Palpa,Mathagadhi Rural Municipality,26
+2020-06-27,5,Pyuthan,Pyuthan Municipality,49
+2020-06-27,5,Rolpa,Rolpa Municipality,1
+2020-06-27,5,Rupandehi,Siyari Rural Municipality,8
+2020-06-27,6,Jajarkot,Kuse Rural Municipality,1
+2020-06-27,6,Salyan,Sharada Municipality,13
+2020-06-27,6,Surkhet,Birendranagar Municipality,7
+2020-06-27,7,Achham,Mangalsen Municipality,13
+2020-06-27,7,Baitadi,Patan Municipality,26
+2020-06-27,7,Bajhang,Surma Rural Municipality,8
+2020-06-27,7,Bajura,Gaumul Rural Municipality,78
+2020-06-27,7,Dadeldhura,Alital Rural Municipality,8
+2020-06-27,7,Doti,Shikhar Municipality,61
+2020-06-27,7,Kailali,Gauriganga Municipality,14
+2020-06-27,7,Kanchanpur,Shuklaphanta National Park National Park,5
+2020-06-28,1,Ilam,Illam Municipality,1
+2020-06-28,1,Jhapa,Barhadashi Rural Municipality,2
+2020-06-28,1,Khotang,Rupakot Majhuwagadhi Municipality,4
+2020-06-28,1,Morang,Belbari Municipality,17
+2020-06-28,1,Sunsari,Ramdhuni Municipality,1
+2020-06-28,1,Udayapur,Triyuga Municipality,6
+2020-06-28,2,Dhanusa,Dhanusadham Municipality,10
+2020-06-28,2,Mahottari,Aurahi Municipality,56
+2020-06-28,2,Rautahat,Brindaban Municipality,17
+2020-06-28,2,Sarlahi,Haripur Municipality,1
+2020-06-28,3,Dhading,Netrawati Rural Municipality,1
+2020-06-28,3,Dolakha,Bigu Rural Municipality,2
+2020-06-28,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-06-28,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-06-28,4,Baglung,Dhorpatan Municipality,29
+2020-06-28,4,Gorkha,Dharche Rural Municipality,1
+2020-06-28,4,Kaski,Machhapuchchhre Rural Municipality,5
+2020-06-28,4,Lamjung,Marsyangdi Rural Municipality,1
+2020-06-28,4,Myagdi,Raghuganga Rural Municipality,2
+2020-06-28,4,Nawalparasi East,Hupsekot Rural Municipality,31
+2020-06-28,4,Parbat,Kushma Municipality,2
+2020-06-28,4,Tanahu,Byas Municipality,6
+2020-06-28,5,Arghakhanchi,Sitganga Municipality,6
+2020-06-28,5,Dang,Ghorahi Submetropolitan City,34
+2020-06-28,5,Gulmi,Resunga Municipality,38
+2020-06-28,5,Kapilbastu,Buddhabhumi Municipality,8
+2020-06-28,5,Palpa,Mathagadhi Rural Municipality,2
+2020-06-28,5,Pyuthan,Pyuthan Municipality,35
+2020-06-28,5,Rolpa,Rolpa Municipality,1
+2020-06-28,5,Rupandehi,Siyari Rural Municipality,12
+2020-06-28,6,Rukum West,Banfikot Rural Municipality,1
+2020-06-28,6,Salyan,Sharada Municipality,2
+2020-06-28,7,Bajura,Gaumul Rural Municipality,95
+2020-06-28,7,Dadeldhura,Alital Rural Municipality,1
+2020-06-28,7,Darchula,Apihimal Rural Municipality,1
+2020-06-28,7,Doti,Shikhar Municipality,13
+2020-06-28,7,Kailali,Gauriganga Municipality,17
+2020-06-29,1,Dhankuta,Dhankuta Municipality,1
+2020-06-29,1,Khotang,Rupakot Majhuwagadhi Municipality,1
+2020-06-29,1,Morang,Belbari Municipality,1
+2020-06-29,2,Bara,Jitpur Simara Submetropolitan City,3
+2020-06-29,2,Dhanusa,Dhanusadham Municipality,6
+2020-06-29,2,Mahottari,Aurahi Municipality,4
+2020-06-29,2,Parsa,Paterwasugauli Rural Municipality,1
+2020-06-29,2,Rautahat,Brindaban Municipality,18
+2020-06-29,2,Saptari,Rupani Rural Municipality,15
+2020-06-29,3,Bhaktapur,Bhaktapur Municipality,1
+2020-06-29,3,Chitwan,Bharatpur Metropolitan City,4
+2020-06-29,3,Dhading,Netrawati Rural Municipality,2
+2020-06-29,3,Kathmandu,Budhanilakantha Municipality,6
+2020-06-29,3,Kavrepalanchok,Namobuddha Municipality,1
+2020-06-29,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-06-29,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-06-29,4,Baglung,Dhorpatan Municipality,14
+2020-06-29,4,Gorkha,Dharche Rural Municipality,5
+2020-06-29,4,Parbat,Kushma Municipality,13
+2020-06-29,4,Syangja,Bhirkot Municipality,8
+2020-06-29,4,Tanahu,Byas Municipality,9
+2020-06-29,5,Arghakhanchi,Sitganga Municipality,38
+2020-06-29,5,Dang,Ghorahi Submetropolitan City,58
+2020-06-29,5,Gulmi,Resunga Municipality,20
+2020-06-29,5,Kapilbastu,Buddhabhumi Municipality,2
+2020-06-29,5,Palpa,Mathagadhi Rural Municipality,26
+2020-06-29,5,Pyuthan,Pyuthan Municipality,9
+2020-06-29,5,Rolpa,Rolpa Municipality,1
+2020-06-29,5,Rupandehi,Siyari Rural Municipality,5
+2020-06-29,6,Dolpa,Shey Phoksundo Rural Municipality,2
+2020-06-29,6,Kalikot,Pachaljharana Rural Municipality,2
+2020-06-29,6,Rukum West,Banfikot Rural Municipality,1
+2020-06-29,7,Bajura,Gaumul Rural Municipality,98
+2020-06-29,7,Doti,Shikhar Municipality,69
+2020-06-29,7,Kailali,Gauriganga Municipality,30
+2020-06-30,1,Jhapa,Barhadashi Rural Municipality,5
+2020-06-30,1,Sankhuwasabha,Makalu Rural Municipality,3
+2020-06-30,1,Sunsari,Ramdhuni Municipality,2
+2020-06-30,1,Udayapur,Triyuga Municipality,2
+2020-06-30,2,Dhanusa,Dhanusadham Municipality,3
+2020-06-30,2,Mahottari,Aurahi Municipality,29
+2020-06-30,2,Rautahat,Brindaban Municipality,7
+2020-06-30,2,Saptari,Rupani Rural Municipality,25
+2020-06-30,2,Sarlahi,Haripur Municipality,8
+2020-06-30,2,Siraha,Dhangadhimai Municipality,10
+2020-06-30,3,Bhaktapur,Bhaktapur Municipality,1
+2020-06-30,3,Kathmandu,Budhanilakantha Municipality,12
+2020-06-30,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-06-30,3,Sindhupalchok,Jugal Rural Municipality,2
+2020-06-30,4,Baglung,Dhorpatan Municipality,1
+2020-06-30,4,Gorkha,Dharche Rural Municipality,1
+2020-06-30,4,Kaski,Machhapuchchhre Rural Municipality,9
+2020-06-30,4,Lamjung,Marsyangdi Rural Municipality,3
+2020-06-30,4,Myagdi,Raghuganga Rural Municipality,1
+2020-06-30,4,Syangja,Bhirkot Municipality,4
+2020-06-30,4,Tanahu,Byas Municipality,6
+2020-06-30,5,Arghakhanchi,Sitganga Municipality,7
+2020-06-30,5,Banke,Rapti Sonari Rural Municipality,1
+2020-06-30,5,Dang,Ghorahi Submetropolitan City,21
+2020-06-30,5,Gulmi,Resunga Municipality,1
+2020-06-30,5,Palpa,Mathagadhi Rural Municipality,18
+2020-06-30,6,Dailekh,Mahabu Rural Municipality,3
+2020-06-30,6,Rukum West,Banfikot Rural Municipality,8
+2020-06-30,6,Salyan,Sharada Municipality,2
+2020-06-30,7,Achham,Mangalsen Municipality,27
+2020-06-30,7,Baitadi,Patan Municipality,4
+2020-06-30,7,Bajura,Gaumul Rural Municipality,51
+2020-06-30,7,Dadeldhura,Alital Rural Municipality,3
+2020-06-30,7,Doti,Shikhar Municipality,30
+2020-06-30,7,Kailali,Gauriganga Municipality,5
+2020-07-01,1,Ilam,Illam Municipality,2
+2020-07-01,1,Jhapa,Barhadashi Rural Municipality,21
+2020-07-01,1,Morang,Belbari Municipality,3
+2020-07-01,1,Sunsari,Ramdhuni Municipality,1
+2020-07-01,1,Taplejung,Phaktanglung Rural Municipality,1
+2020-07-01,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-07-01,2,Dhanusa,Dhanusadham Municipality,21
+2020-07-01,2,Mahottari,Aurahi Municipality,36
+2020-07-01,2,Parsa,Paterwasugauli Rural Municipality,1
+2020-07-01,2,Siraha,Dhangadhimai Municipality,2
+2020-07-01,3,Bhaktapur,Bhaktapur Municipality,2
+2020-07-01,3,Chitwan,Bharatpur Metropolitan City,12
+2020-07-01,3,Kathmandu,Budhanilakantha Municipality,10
+2020-07-01,3,Lalitpur,Konjyosom Rural Municipality,5
+2020-07-01,4,Baglung,Dhorpatan Municipality,3
+2020-07-01,4,Gorkha,Dharche Rural Municipality,3
+2020-07-01,4,Kaski,Machhapuchchhre Rural Municipality,3
+2020-07-01,4,Lamjung,Marsyangdi Rural Municipality,10
+2020-07-01,4,Nawalparasi East,Hupsekot Rural Municipality,11
+2020-07-01,4,Parbat,Kushma Municipality,1
+2020-07-01,4,Syangja,Bhirkot Municipality,8
+2020-07-01,4,Tanahu,Byas Municipality,1
+2020-07-01,5,Arghakhanchi,Sitganga Municipality,1
+2020-07-01,5,Banke,Rapti Sonari Rural Municipality,11
+2020-07-01,5,Bardiya,Bardiya National Park National Park,11
+2020-07-01,5,Dang,Ghorahi Submetropolitan City,2
+2020-07-01,5,Gulmi,Resunga Municipality,8
+2020-07-01,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-07-01,5,Palpa,Mathagadhi Rural Municipality,2
+2020-07-01,6,Dailekh,Mahabu Rural Municipality,2
+2020-07-01,6,Jumla,Guthichaur Rural Municipality,1
+2020-07-01,6,Kalikot,Pachaljharana Rural Municipality,2
+2020-07-01,6,Salyan,Sharada Municipality,15
+2020-07-01,6,Surkhet,Birendranagar Municipality,22
+2020-07-01,7,Achham,Mangalsen Municipality,127
+2020-07-01,7,Baitadi,Patan Municipality,1
+2020-07-01,7,Bajhang,Surma Rural Municipality,18
+2020-07-01,7,Bajura,Gaumul Rural Municipality,43
+2020-07-01,7,Doti,Shikhar Municipality,20
+2020-07-01,7,Kailali,Gauriganga Municipality,27
+2020-07-01,7,Kanchanpur,Shuklaphanta National Park National Park,10
+2020-07-02,1,Jhapa,Barhadashi Rural Municipality,1
+2020-07-02,1,Khotang,Rupakot Majhuwagadhi Municipality,1
+2020-07-02,1,Morang,Belbari Municipality,6
+2020-07-02,1,Sunsari,Ramdhuni Municipality,4
+2020-07-02,1,Udayapur,Triyuga Municipality,1
+2020-07-02,2,Dhanusa,Dhanusadham Municipality,30
+2020-07-02,2,Mahottari,Aurahi Municipality,13
+2020-07-02,2,Saptari,Rupani Rural Municipality,10
+2020-07-02,3,Bhaktapur,Bhaktapur Municipality,2
+2020-07-02,3,Chitwan,Bharatpur Metropolitan City,2
+2020-07-02,3,Dhading,Netrawati Rural Municipality,1
+2020-07-02,3,Dolakha,Bigu Rural Municipality,2
+2020-07-02,3,Kathmandu,Budhanilakantha Municipality,28
+2020-07-02,3,Kavrepalanchok,Namobuddha Municipality,1
+2020-07-02,3,Lalitpur,Konjyosom Rural Municipality,2
+2020-07-02,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-07-02,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-07-02,3,Ramechhap,Gokulganga Rural Municipality,1
+2020-07-02,3,Rasuwa,Gosaikunda Rural Municipality,1
+2020-07-02,3,Sindhuli,Kamalamai Municipality,1
+2020-07-02,3,Sindhupalchok,Jugal Rural Municipality,4
+2020-07-02,4,Baglung,Dhorpatan Municipality,1
+2020-07-02,4,Gorkha,Dharche Rural Municipality,1
+2020-07-02,4,Kaski,Machhapuchchhre Rural Municipality,1
+2020-07-02,4,Lamjung,Marsyangdi Rural Municipality,16
+2020-07-02,4,Parbat,Kushma Municipality,2
+2020-07-02,4,Syangja,Bhirkot Municipality,2
+2020-07-02,4,Tanahu,Byas Municipality,3
+2020-07-02,5,Arghakhanchi,Sitganga Municipality,2
+2020-07-02,5,Bardiya,Bardiya National Park National Park,1
+2020-07-02,5,Dang,Ghorahi Submetropolitan City,4
+2020-07-02,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-07-02,5,Palpa,Mathagadhi Rural Municipality,1
+2020-07-02,5,Rupandehi,Siyari Rural Municipality,1
+2020-07-02,6,Dailekh,Mahabu Rural Municipality,3
+2020-07-02,6,Kalikot,Pachaljharana Rural Municipality,1
+2020-07-02,7,Achham,Mangalsen Municipality,31
+2020-07-02,7,Bajhang,Surma Rural Municipality,35
+2020-07-02,7,Doti,Shikhar Municipality,58
+2020-07-02,7,Kailali,Gauriganga Municipality,165
+2020-07-02,7,Kanchanpur,Shuklaphanta National Park National Park,31
+2020-07-03,1,Morang,Belbari Municipality,19
+2020-07-03,1,Sunsari,Ramdhuni Municipality,19
+2020-07-03,2,Dhanusa,Dhanusadham Municipality,22
+2020-07-03,2,Parsa,Paterwasugauli Rural Municipality,1
+2020-07-03,2,Saptari,Rupani Rural Municipality,32
+2020-07-03,3,Chitwan,Bharatpur Metropolitan City,21
+2020-07-03,3,Kathmandu,Budhanilakantha Municipality,166
+2020-07-03,3,Makwanpur,Makawanpurgadhi Rural Municipality,29
+2020-07-03,4,Baglung,Dhorpatan Municipality,50
+2020-07-03,4,Kaski,Machhapuchchhre Rural Municipality,15
+2020-07-03,4,Syangja,Bhirkot Municipality,50
+2020-07-03,5,Arghakhanchi,Sitganga Municipality,50
+2020-07-03,5,Banke,Rapti Sonari Rural Municipality,28
+2020-07-03,5,Dang,Ghorahi Submetropolitan City,8
+2020-07-03,5,Kapilbastu,Buddhabhumi Municipality,50
+2020-07-03,5,Rupandehi,Siyari Rural Municipality,1
+2020-07-03,6,Dailekh,Mahabu Rural Municipality,10
+2020-07-03,6,Jumla,Guthichaur Rural Municipality,1
+2020-07-03,6,Surkhet,Birendranagar Municipality,53
+2020-07-03,7,Kailali,Gauriganga Municipality,65
+2020-07-03,7,Kanchanpur,Shuklaphanta National Park National Park,50
+2020-07-04,1,Ilam,Illam Municipality,1
+2020-07-04,1,Jhapa,Barhadashi Rural Municipality,5
+2020-07-04,1,Morang,Belbari Municipality,6
+2020-07-04,2,Dhanusa,Dhanusadham Municipality,15
+2020-07-04,2,Saptari,Rupani Rural Municipality,36
+2020-07-04,2,Sarlahi,Haripur Municipality,16
+2020-07-04,2,Siraha,Dhangadhimai Municipality,21
+2020-07-04,3,Chitwan,Bharatpur Metropolitan City,6
+2020-07-04,3,Sindhupalchok,Jugal Rural Municipality,12
+2020-07-04,4,Baglung,Dhorpatan Municipality,3
+2020-07-04,4,Myagdi,Raghuganga Rural Municipality,3
+2020-07-04,4,Nawalparasi East,Hupsekot Rural Municipality,7
+2020-07-04,4,Syangja,Bhirkot Municipality,1
+2020-07-04,4,Tanahu,Byas Municipality,1
+2020-07-04,5,Banke,Rapti Sonari Rural Municipality,5
+2020-07-04,5,Gulmi,Resunga Municipality,9
+2020-07-04,5,Nawalparasi West,Sarawal Rural Municipality,4
+2020-07-04,5,Palpa,Mathagadhi Rural Municipality,19
+2020-07-04,5,Pyuthan,Pyuthan Municipality,8
+2020-07-04,5,Rolpa,Rolpa Municipality,2
+2020-07-04,5,Rupandehi,Siyari Rural Municipality,4
+2020-07-04,6,Dailekh,Mahabu Rural Municipality,1
+2020-07-04,7,Achham,Mangalsen Municipality,35
+2020-07-04,7,Dadeldhura,Alital Rural Municipality,3
+2020-07-04,7,Doti,Shikhar Municipality,3
+2020-07-04,7,Kanchanpur,Shuklaphanta National Park National Park,6
+2020-07-05,1,Ilam,Illam Municipality,1
+2020-07-05,1,Jhapa,Barhadashi Rural Municipality,2
+2020-07-05,1,Morang,Belbari Municipality,2
+2020-07-05,1,Panchthar,Phidim Municipality,1
+2020-07-05,1,Taplejung,Phaktanglung Rural Municipality,2
+2020-07-05,2,Dhanusa,Dhanusadham Municipality,27
+2020-07-05,2,Mahottari,Aurahi Municipality,12
+2020-07-05,2,Parsa,Paterwasugauli Rural Municipality,1
+2020-07-05,2,Rautahat,Brindaban Municipality,29
+2020-07-05,2,Sarlahi,Haripur Municipality,7
+2020-07-05,2,Siraha,Dhangadhimai Municipality,1
+2020-07-05,3,Bhaktapur,Bhaktapur Municipality,1
+2020-07-05,3,Dhading,Netrawati Rural Municipality,1
+2020-07-05,3,Kathmandu,Budhanilakantha Municipality,27
+2020-07-05,3,Lalitpur,Konjyosom Rural Municipality,2
+2020-07-05,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-07-05,3,Nuwakot,Suryagadhi Rural Municipality,2
+2020-07-05,3,Ramechhap,Gokulganga Rural Municipality,2
+2020-07-05,3,Sindhupalchok,Jugal Rural Municipality,2
+2020-07-05,4,Baglung,Dhorpatan Municipality,1
+2020-07-05,4,Gorkha,Dharche Rural Municipality,1
+2020-07-05,4,Kaski,Machhapuchchhre Rural Municipality,2
+2020-07-05,4,Lamjung,Marsyangdi Rural Municipality,1
+2020-07-05,4,Myagdi,Raghuganga Rural Municipality,1
+2020-07-05,4,Syangja,Bhirkot Municipality,1
+2020-07-05,4,Tanahu,Byas Municipality,2
+2020-07-05,5,Arghakhanchi,Sitganga Municipality,4
+2020-07-05,5,Banke,Rapti Sonari Rural Municipality,1
+2020-07-05,5,Bardiya,Bardiya National Park National Park,5
+2020-07-05,5,Kapilbastu,Buddhabhumi Municipality,2
+2020-07-05,5,Nawalparasi West,Sarawal Rural Municipality,1
+2020-07-05,5,Pyuthan,Pyuthan Municipality,11
+2020-07-05,5,Rupandehi,Siyari Rural Municipality,2
+2020-07-05,6,Dailekh,Mahabu Rural Municipality,7
+2020-07-05,6,Rukum West,Banfikot Rural Municipality,4
+2020-07-05,6,Salyan,Sharada Municipality,16
+2020-07-05,6,Surkhet,Birendranagar Municipality,12
+2020-07-05,7,Achham,Mangalsen Municipality,1
+2020-07-05,7,Baitadi,Patan Municipality,4
+2020-07-05,7,Bajura,Gaumul Rural Municipality,20
+2020-07-05,7,Dadeldhura,Alital Rural Municipality,9
+2020-07-05,7,Doti,Shikhar Municipality,3
+2020-07-05,7,Kailali,Gauriganga Municipality,27
+2020-07-05,7,Kanchanpur,Shuklaphanta National Park National Park,32
+2020-07-06,1,Jhapa,Barhadashi Rural Municipality,5
+2020-07-06,1,Khotang,Rupakot Majhuwagadhi Municipality,3
+2020-07-06,1,Okhaldhunga,Molung Rural Municipality,3
+2020-07-06,1,Sankhuwasabha,Makalu Rural Municipality,1
+2020-07-06,1,Sunsari,Ramdhuni Municipality,2
+2020-07-06,1,Taplejung,Phaktanglung Rural Municipality,1
+2020-07-06,1,Udayapur,Triyuga Municipality,1
+2020-07-06,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-07-06,2,Rautahat,Brindaban Municipality,6
+2020-07-06,2,Saptari,Rupani Rural Municipality,8
+2020-07-06,2,Sarlahi,Haripur Municipality,6
+2020-07-06,2,Siraha,Dhangadhimai Municipality,3
+2020-07-06,3,Bhaktapur,Bhaktapur Municipality,10
+2020-07-06,3,Chitwan,Bharatpur Metropolitan City,4
+2020-07-06,3,Dhading,Netrawati Rural Municipality,1
+2020-07-06,3,Dolakha,Bigu Rural Municipality,2
+2020-07-06,3,Kathmandu,Budhanilakantha Municipality,24
+2020-07-06,3,Kavrepalanchok,Namobuddha Municipality,4
+2020-07-06,3,Lalitpur,Konjyosom Rural Municipality,20
+2020-07-06,3,Makwanpur,Makawanpurgadhi Rural Municipality,5
+2020-07-06,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-07-06,3,Sindhuli,Kamalamai Municipality,2
+2020-07-06,3,Sindhupalchok,Jugal Rural Municipality,3
+2020-07-06,4,Baglung,Dhorpatan Municipality,6
+2020-07-06,4,Gorkha,Dharche Rural Municipality,7
+2020-07-06,4,Kaski,Machhapuchchhre Rural Municipality,8
+2020-07-06,4,Lamjung,Marsyangdi Rural Municipality,11
+2020-07-06,4,Nawalparasi East,Hupsekot Rural Municipality,1
+2020-07-06,5,Arghakhanchi,Sitganga Municipality,1
+2020-07-06,5,Dang,Ghorahi Submetropolitan City,2
+2020-07-06,5,Nawalparasi West,Sarawal Rural Municipality,5
+2020-07-06,5,Palpa,Mathagadhi Rural Municipality,4
+2020-07-06,5,Pyuthan,Pyuthan Municipality,4
+2020-07-06,6,Jajarkot,Kuse Rural Municipality,1
+2020-07-06,6,Jumla,Guthichaur Rural Municipality,1
+2020-07-06,7,Dadeldhura,Alital Rural Municipality,5
+2020-07-06,7,Kailali,Gauriganga Municipality,8
+2020-07-07,1,Jhapa,Barhadashi Rural Municipality,1
+2020-07-07,1,Morang,Belbari Municipality,6
+2020-07-07,1,Sunsari,Ramdhuni Municipality,3
+2020-07-07,2,Dhanusa,Dhanusadham Municipality,8
+2020-07-07,2,Mahottari,Aurahi Municipality,9
+2020-07-07,2,Parsa,Paterwasugauli Rural Municipality,1
+2020-07-07,2,Saptari,Rupani Rural Municipality,4
+2020-07-07,2,Sarlahi,Haripur Municipality,3
+2020-07-07,3,Bhaktapur,Bhaktapur Municipality,4
+2020-07-07,3,Dhading,Netrawati Rural Municipality,1
+2020-07-07,3,Kathmandu,Budhanilakantha Municipality,14
+2020-07-07,3,Lalitpur,Konjyosom Rural Municipality,10
+2020-07-07,3,Makwanpur,Makawanpurgadhi Rural Municipality,3
+2020-07-07,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-07-07,3,Ramechhap,Gokulganga Rural Municipality,1
+2020-07-07,3,Sindhuli,Kamalamai Municipality,1
+2020-07-07,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-07-07,4,Baglung,Dhorpatan Municipality,1
+2020-07-07,4,Gorkha,Dharche Rural Municipality,3
+2020-07-07,4,Kaski,Machhapuchchhre Rural Municipality,1
+2020-07-07,4,Lamjung,Marsyangdi Rural Municipality,1
+2020-07-07,4,Tanahu,Byas Municipality,2
+2020-07-07,5,Arghakhanchi,Sitganga Municipality,8
+2020-07-07,5,Bardiya,Bardiya National Park National Park,2
+2020-07-07,5,Dang,Ghorahi Submetropolitan City,3
+2020-07-07,5,Kapilbastu,Buddhabhumi Municipality,1
+2020-07-07,5,Nawalparasi West,Sarawal Rural Municipality,5
+2020-07-07,5,Palpa,Mathagadhi Rural Municipality,2
+2020-07-07,5,Rukum East,Putha Uttarganga Rural Municipality,1
+2020-07-07,5,Rupandehi,Siyari Rural Municipality,1
+2020-07-07,6,Rukum West,Banfikot Rural Municipality,5
+2020-07-07,6,Salyan,Sharada Municipality,5
+2020-07-07,6,Surkhet,Birendranagar Municipality,3
+2020-07-07,7,Achham,Mangalsen Municipality,11
+2020-07-07,7,Baitadi,Patan Municipality,11
+2020-07-07,7,Bajura,Gaumul Rural Municipality,54
+2020-07-07,7,Dadeldhura,Alital Rural Municipality,6
+2020-07-07,7,Doti,Shikhar Municipality,7
+2020-07-08,1,Ilam,Illam Municipality,2
+2020-07-08,1,Jhapa,Barhadashi Rural Municipality,8
+2020-07-08,1,Morang,Belbari Municipality,4
+2020-07-08,1,Sunsari,Ramdhuni Municipality,3
+2020-07-08,1,Terhathum,Phedap Rural Municipality,1
+2020-07-08,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-07-08,2,Parsa,Paterwasugauli Rural Municipality,1
+2020-07-08,2,Rautahat,Brindaban Municipality,33
+2020-07-08,2,Saptari,Rupani Rural Municipality,4
+2020-07-08,2,Sarlahi,Haripur Municipality,3
+2020-07-08,2,Siraha,Dhangadhimai Municipality,2
+2020-07-08,3,Chitwan,Bharatpur Metropolitan City,5
+2020-07-08,3,Dhading,Netrawati Rural Municipality,1
+2020-07-08,3,Dolakha,Bigu Rural Municipality,1
+2020-07-08,3,Kathmandu,Budhanilakantha Municipality,16
+2020-07-08,3,Kavrepalanchok,Namobuddha Municipality,2
+2020-07-08,3,Lalitpur,Konjyosom Rural Municipality,7
+2020-07-08,3,Ramechhap,Gokulganga Rural Municipality,2
+2020-07-08,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-07-08,4,Gorkha,Dharche Rural Municipality,2
+2020-07-08,4,Kaski,Machhapuchchhre Rural Municipality,14
+2020-07-08,4,Lamjung,Marsyangdi Rural Municipality,1
+2020-07-08,4,Myagdi,Raghuganga Rural Municipality,1
+2020-07-08,4,Nawalparasi East,Hupsekot Rural Municipality,3
+2020-07-08,5,Banke,Rapti Sonari Rural Municipality,2
+2020-07-08,5,Dang,Ghorahi Submetropolitan City,5
+2020-07-08,5,Gulmi,Resunga Municipality,3
+2020-07-08,5,Palpa,Mathagadhi Rural Municipality,5
+2020-07-08,5,Pyuthan,Pyuthan Municipality,1
+2020-07-08,6,Dailekh,Mahabu Rural Municipality,5
+2020-07-08,6,Jajarkot,Kuse Rural Municipality,1
+2020-07-08,6,Kalikot,Pachaljharana Rural Municipality,1
+2020-07-08,6,Mugu,Mugum Karmarong Rural Municipality,2
+2020-07-08,6,Rukum West,Banfikot Rural Municipality,7
+2020-07-08,6,Surkhet,Birendranagar Municipality,14
+2020-07-08,7,Achham,Mangalsen Municipality,22
+2020-07-08,7,Baitadi,Patan Municipality,2
+2020-07-08,7,Bajhang,Surma Rural Municipality,4
+2020-07-08,7,Dadeldhura,Alital Rural Municipality,2
+2020-07-08,7,Darchula,Apihimal Rural Municipality,1
+2020-07-08,7,Doti,Shikhar Municipality,12
+2020-07-08,7,Kailali,Gauriganga Municipality,36
+2020-07-08,7,Kanchanpur,Shuklaphanta National Park National Park,12
+2020-07-09,1,Jhapa,Barhadashi Rural Municipality,1
+2020-07-09,1,Sunsari,Ramdhuni Municipality,1
+2020-07-09,2,Dhanusa,Dhanusadham Municipality,2
+2020-07-09,2,Saptari,Rupani Rural Municipality,2
+2020-07-09,2,Sarlahi,Haripur Municipality,1
+2020-07-09,2,Siraha,Dhangadhimai Municipality,4
+2020-07-09,3,Chitwan,Bharatpur Metropolitan City,4
+2020-07-09,3,Kathmandu,Budhanilakantha Municipality,5
+2020-07-09,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-07-09,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-07-09,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-07-09,4,Baglung,Dhorpatan Municipality,3
+2020-07-09,4,Gorkha,Dharche Rural Municipality,2
+2020-07-09,4,Kaski,Machhapuchchhre Rural Municipality,4
+2020-07-09,4,Lamjung,Marsyangdi Rural Municipality,5
+2020-07-09,4,Myagdi,Raghuganga Rural Municipality,2
+2020-07-09,4,Nawalparasi East,Hupsekot Rural Municipality,1
+2020-07-09,4,Tanahu,Byas Municipality,1
+2020-07-09,5,Banke,Rapti Sonari Rural Municipality,2
+2020-07-09,5,Dang,Ghorahi Submetropolitan City,7
+2020-07-09,6,Dailekh,Mahabu Rural Municipality,3
+2020-07-09,6,Mugu,Mugum Karmarong Rural Municipality,2
+2020-07-09,6,Surkhet,Birendranagar Municipality,18
+2020-07-09,7,Achham,Mangalsen Municipality,4
+2020-07-09,7,Bajhang,Surma Rural Municipality,16
+2020-07-09,7,Bajura,Gaumul Rural Municipality,2
+2020-07-09,7,Darchula,Apihimal Rural Municipality,1
+2020-07-09,7,Doti,Shikhar Municipality,2
+2020-07-09,7,Kailali,Gauriganga Municipality,8
+2020-07-09,7,Kanchanpur,Shuklaphanta National Park National Park,2
+2020-07-10,1,Ilam,Illam Municipality,2
+2020-07-10,1,Panchthar,Phidim Municipality,2
+2020-07-10,2,Dhanusa,Dhanusadham Municipality,4
+2020-07-10,2,Mahottari,Aurahi Municipality,4
+2020-07-10,2,Rautahat,Brindaban Municipality,2
+2020-07-10,2,Sarlahi,Haripur Municipality,8
+2020-07-10,2,Siraha,Dhangadhimai Municipality,2
+2020-07-10,3,Bhaktapur,Bhaktapur Municipality,1
+2020-07-10,3,Chitwan,Bharatpur Metropolitan City,1
+2020-07-10,3,Dhading,Netrawati Rural Municipality,1
+2020-07-10,3,Kathmandu,Budhanilakantha Municipality,28
+2020-07-10,3,Kavrepalanchok,Namobuddha Municipality,2
+2020-07-10,3,Lalitpur,Konjyosom Rural Municipality,13
+2020-07-10,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-07-10,3,Ramechhap,Gokulganga Rural Municipality,1
+2020-07-10,3,Rasuwa,Gosaikunda Rural Municipality,1
+2020-07-10,3,Sindhuli,Kamalamai Municipality,1
+2020-07-10,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-07-10,4,Baglung,Dhorpatan Municipality,2
+2020-07-10,4,Gorkha,Dharche Rural Municipality,1
+2020-07-10,4,Tanahu,Byas Municipality,8
+2020-07-10,5,Banke,Rapti Sonari Rural Municipality,1
+2020-07-10,5,Gulmi,Resunga Municipality,6
+2020-07-10,5,Nawalparasi West,Sarawal Rural Municipality,2
+2020-07-10,5,Palpa,Mathagadhi Rural Municipality,4
+2020-07-10,5,Rupandehi,Siyari Rural Municipality,1
+2020-07-10,6,Dailekh,Mahabu Rural Municipality,2
+2020-07-10,6,Dolpa,Shey Phoksundo Rural Municipality,1
+2020-07-10,6,Salyan,Sharada Municipality,1
+2020-07-10,6,Surkhet,Birendranagar Municipality,11
+2020-07-10,7,Bajura,Gaumul Rural Municipality,1
+2020-07-10,7,Doti,Shikhar Municipality,1
+2020-07-10,7,Kailali,Gauriganga Municipality,1
+2020-07-11,1,Jhapa,Barhadashi Rural Municipality,2
+2020-07-11,1,Morang,Belbari Municipality,3
+2020-07-11,1,Sunsari,Ramdhuni Municipality,4
+2020-07-11,1,Udayapur,Triyuga Municipality,4
+2020-07-11,2,Rautahat,Brindaban Municipality,1
+2020-07-11,2,Sarlahi,Haripur Municipality,3
+2020-07-11,2,Siraha,Dhangadhimai Municipality,1
+2020-07-11,3,Chitwan,Bharatpur Metropolitan City,1
+2020-07-11,3,Dhading,Netrawati Rural Municipality,3
+2020-07-11,3,Kathmandu,Budhanilakantha Municipality,3
+2020-07-11,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-07-11,3,Sindhuli,Kamalamai Municipality,1
+2020-07-11,3,Sindhupalchok,Jugal Rural Municipality,5
+2020-07-11,4,Baglung,Dhorpatan Municipality,3
+2020-07-11,4,Kaski,Machhapuchchhre Rural Municipality,2
+2020-07-11,4,Myagdi,Raghuganga Rural Municipality,2
+2020-07-11,4,Parbat,Kushma Municipality,1
+2020-07-11,4,Syangja,Bhirkot Municipality,4
+2020-07-11,4,Tanahu,Byas Municipality,4
+2020-07-11,5,Banke,Rapti Sonari Rural Municipality,2
+2020-07-11,5,Bardiya,Bardiya National Park National Park,2
+2020-07-11,5,Dang,Ghorahi Submetropolitan City,5
+2020-07-11,5,Palpa,Mathagadhi Rural Municipality,1
+2020-07-11,6,Jumla,Guthichaur Rural Municipality,2
+2020-07-11,6,Rukum West,Banfikot Rural Municipality,1
+2020-07-11,6,Salyan,Sharada Municipality,1
+2020-07-11,6,Surkhet,Birendranagar Municipality,3
+2020-07-11,7,Achham,Mangalsen Municipality,1
+2020-07-11,7,Kanchanpur,Shuklaphanta National Park National Park,4
+2020-07-12,1,Jhapa,Barhadashi Rural Municipality,1
+2020-07-12,1,Morang,Belbari Municipality,2
+2020-07-12,1,Solukhumbu,Khumbupasanglahmu Rural Municipality,1
+2020-07-12,2,Dhanusa,Dhanusadham Municipality,19
+2020-07-12,2,Sarlahi,Haripur Municipality,1
+2020-07-12,3,Chitwan,Bharatpur Metropolitan City,5
+2020-07-12,3,Kathmandu,Budhanilakantha Municipality,5
+2020-07-12,3,Lalitpur,Konjyosom Rural Municipality,1
+2020-07-12,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-07-12,3,Sindhuli,Kamalamai Municipality,1
+2020-07-12,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-07-12,4,Baglung,Dhorpatan Municipality,2
+2020-07-12,4,Gorkha,Dharche Rural Municipality,1
+2020-07-12,4,Lamjung,Marsyangdi Rural Municipality,2
+2020-07-12,4,Nawalparasi East,Hupsekot Rural Municipality,1
+2020-07-12,4,Parbat,Kushma Municipality,2
+2020-07-12,4,Syangja,Bhirkot Municipality,1
+2020-07-12,4,Tanahu,Byas Municipality,6
+2020-07-12,5,Gulmi,Resunga Municipality,1
+2020-07-12,5,Palpa,Mathagadhi Rural Municipality,1
+2020-07-12,6,Dailekh,Mahabu Rural Municipality,1
+2020-07-12,6,Kalikot,Pachaljharana Rural Municipality,7
+2020-07-12,6,Rukum West,Banfikot Rural Municipality,2
+2020-07-12,6,Surkhet,Birendranagar Municipality,11
+2020-07-12,7,Bajhang,Surma Rural Municipality,1
+2020-07-12,7,Dadeldhura,Alital Rural Municipality,2
+2020-07-12,7,Darchula,Apihimal Rural Municipality,1
+2020-07-12,7,Kailali,Gauriganga Municipality,2
+2020-07-13,1,Jhapa,Barhadashi Rural Municipality,4
+2020-07-13,1,Morang,Belbari Municipality,1
+2020-07-13,1,Sunsari,Ramdhuni Municipality,1
+2020-07-13,2,Dhanusa,Dhanusadham Municipality,27
+2020-07-13,2,Mahottari,Aurahi Municipality,4
+2020-07-13,2,Rautahat,Brindaban Municipality,9
+2020-07-13,2,Saptari,Rupani Rural Municipality,1
+2020-07-13,3,Bhaktapur,Bhaktapur Municipality,1
+2020-07-13,3,Dolakha,Bigu Rural Municipality,1
+2020-07-13,3,Kathmandu,Budhanilakantha Municipality,3
+2020-07-13,3,Kavrepalanchok,Namobuddha Municipality,1
+2020-07-13,3,Lalitpur,Konjyosom Rural Municipality,5
+2020-07-13,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-07-13,3,Sindhuli,Kamalamai Municipality,1
+2020-07-13,4,Baglung,Dhorpatan Municipality,2
+2020-07-13,4,Myagdi,Raghuganga Rural Municipality,2
+2020-07-13,4,Parbat,Kushma Municipality,1
+2020-07-13,4,Syangja,Bhirkot Municipality,1
+2020-07-13,4,Tanahu,Byas Municipality,2
+2020-07-13,5,Banke,Rapti Sonari Rural Municipality,1
+2020-07-13,5,Bardiya,Bardiya National Park National Park,2
+2020-07-13,5,Dang,Ghorahi Submetropolitan City,2
+2020-07-13,5,Kapilbastu,Buddhabhumi Municipality,9
+2020-07-13,6,Dailekh,Mahabu Rural Municipality,2
+2020-07-13,6,Jajarkot,Kuse Rural Municipality,1
+2020-07-13,6,Rukum West,Banfikot Rural Municipality,2
+2020-07-13,6,Surkhet,Birendranagar Municipality,41
+2020-07-13,7,Achham,Mangalsen Municipality,1
+2020-07-13,7,Baitadi,Patan Municipality,2
+2020-07-13,7,Bajhang,Surma Rural Municipality,2
+2020-07-13,7,Kailali,Gauriganga Municipality,11
+2020-07-14,1,Dhankuta,Dhankuta Municipality,3
+2020-07-14,1,Ilam,Illam Municipality,2
+2020-07-14,1,Jhapa,Barhadashi Rural Municipality,1
+2020-07-14,1,Okhaldhunga,Molung Rural Municipality,1
+2020-07-14,1,Sunsari,Ramdhuni Municipality,1
+2020-07-14,1,Terhathum,Phedap Rural Municipality,1
+2020-07-14,2,Dhanusa,Dhanusadham Municipality,21
+2020-07-14,2,Mahottari,Aurahi Municipality,19
+2020-07-14,2,Parsa,Paterwasugauli Rural Municipality,2
+2020-07-14,2,Rautahat,Brindaban Municipality,1
+2020-07-14,2,Siraha,Dhangadhimai Municipality,1
+2020-07-14,3,Kathmandu,Budhanilakantha Municipality,2
+2020-07-14,3,Kavrepalanchok,Namobuddha Municipality,2
+2020-07-14,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-07-14,3,Sindhuli,Kamalamai Municipality,1
+2020-07-14,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-07-14,4,Gorkha,Dharche Rural Municipality,2
+2020-07-14,4,Nawalparasi East,Hupsekot Rural Municipality,3
+2020-07-14,5,Arghakhanchi,Sitganga Municipality,3
+2020-07-14,5,Banke,Rapti Sonari Rural Municipality,1
+2020-07-14,5,Bardiya,Bardiya National Park National Park,1
+2020-07-14,5,Dang,Ghorahi Submetropolitan City,5
+2020-07-14,5,Palpa,Mathagadhi Rural Municipality,4
+2020-07-14,5,Pyuthan,Pyuthan Municipality,3
+2020-07-14,5,Rolpa,Rolpa Municipality,3
+2020-07-14,6,Dailekh,Mahabu Rural Municipality,6
+2020-07-14,6,Jumla,Guthichaur Rural Municipality,4
+2020-07-14,6,Surkhet,Birendranagar Municipality,1
+2020-07-14,7,Achham,Mangalsen Municipality,14
+2020-07-14,7,Kailali,Gauriganga Municipality,5
+2020-07-14,7,Kanchanpur,Shuklaphanta National Park National Park,1
+2020-07-15,1,Dhankuta,Dhankuta Municipality,1
+2020-07-15,1,Morang,Belbari Municipality,1
+2020-07-15,1,Taplejung,Phaktanglung Rural Municipality,1
+2020-07-15,2,Dhanusa,Dhanusadham Municipality,6
+2020-07-15,2,Rautahat,Brindaban Municipality,5
+2020-07-15,2,Saptari,Rupani Rural Municipality,13
+2020-07-15,3,Chitwan,Bharatpur Metropolitan City,8
+2020-07-15,3,Dhading,Netrawati Rural Municipality,1
+2020-07-15,3,Kathmandu,Budhanilakantha Municipality,7
+2020-07-15,3,Nuwakot,Suryagadhi Rural Municipality,1
+2020-07-15,3,Sindhupalchok,Jugal Rural Municipality,1
+2020-07-15,4,Gorkha,Dharche Rural Municipality,1
+2020-07-15,4,Kaski,Machhapuchchhre Rural Municipality,3
+2020-07-15,4,Myagdi,Raghuganga Rural Municipality,9
+2020-07-15,4,Nawalparasi East,Hupsekot Rural Municipality,11
+2020-07-15,4,Tanahu,Byas Municipality,3
+2020-07-15,5,Palpa,Mathagadhi Rural Municipality,1
+2020-07-15,6,Dailekh,Mahabu Rural Municipality,3
+2020-07-15,6,Jajarkot,Kuse Rural Municipality,1
+2020-07-15,6,Jumla,Guthichaur Rural Municipality,2
+2020-07-15,6,Mugu,Mugum Karmarong Rural Municipality,1
+2020-07-15,6,Salyan,Sharada Municipality,5
+2020-07-15,6,Surkhet,Birendranagar Municipality,28
+2020-07-15,7,Achham,Mangalsen Municipality,1
+2020-07-15,7,Dadeldhura,Alital Rural Municipality,2
+2020-07-16,1,Ilam,Illam Municipality,6
+2020-07-16,1,Jhapa,Barhadashi Rural Municipality,4
+2020-07-16,1,Morang,Belbari Municipality,3
+2020-07-16,1,Okhaldhunga,Molung Rural Municipality,15
+2020-07-16,1,Sunsari,Ramdhuni Municipality,4
+2020-07-16,1,Udayapur,Triyuga Municipality,1
+2020-07-16,2,Bara,Jitpur Simara Submetropolitan City,1
+2020-07-16,2,Dhanusa,Dhanusadham Municipality,27
+2020-07-16,2,Parsa,Paterwasugauli Rural Municipality,2
+2020-07-16,2,Rautahat,Brindaban Municipality,12
+2020-07-16,3,Kathmandu,Budhanilakantha Municipality,1
+2020-07-16,3,Makwanpur,Makawanpurgadhi Rural Municipality,3
+2020-07-16,4,Baglung,Dhorpatan Municipality,2
+2020-07-16,4,Nawalparasi East,Hupsekot Rural Municipality,17
+2020-07-16,4,Syangja,Bhirkot Municipality,1
+2020-07-16,5,Banke,Rapti Sonari Rural Municipality,8
+2020-07-16,5,Bardiya,Bardiya National Park National Park,1
+2020-07-16,5,Dang,Ghorahi Submetropolitan City,1
+2020-07-16,5,Pyuthan,Pyuthan Municipality,1
+2020-07-16,5,Rupandehi,Siyari Rural Municipality,1
+2020-07-16,6,Dailekh,Mahabu Rural Municipality,6
+2020-07-16,6,Jajarkot,Kuse Rural Municipality,2
+2020-07-16,6,Mugu,Mugum Karmarong Rural Municipality,1
+2020-07-16,6,Rukum West,Banfikot Rural Municipality,1
+2020-07-16,6,Salyan,Sharada Municipality,2
+2020-07-16,6,Surkhet,Birendranagar Municipality,3
+2020-07-16,7,Achham,Mangalsen Municipality,4
+2020-07-16,7,Bajhang,Surma Rural Municipality,1
+2020-07-16,7,Dadeldhura,Alital Rural Municipality,8
+2020-07-16,7,Kailali,Gauriganga Municipality,14
+2020-07-16,7,Kanchanpur,Shuklaphanta National Park National Park,14
+2020-07-17,1,Jhapa,Barhadashi Rural Municipality,2
+2020-07-17,1,Morang,Belbari Municipality,2
+2020-07-17,2,Bara,Jitpur Simara Submetropolitan City,3
+2020-07-17,2,Dhanusa,Dhanusadham Municipality,8
+2020-07-17,2,Parsa,Paterwasugauli Rural Municipality,2
+2020-07-17,2,Rautahat,Brindaban Municipality,8
+2020-07-17,2,Saptari,Rupani Rural Municipality,1
+2020-07-17,3,Bhaktapur,Bhaktapur Municipality,2
+2020-07-17,3,Kathmandu,Budhanilakantha Municipality,1
+2020-07-17,3,Kavrepalanchok,Namobuddha Municipality,1
+2020-07-17,3,Makwanpur,Makawanpurgadhi Rural Municipality,1
+2020-07-17,3,Nuwakot,Suryagadhi Rural Municipality,2
+2020-07-17,3,Sindhuli,Kamalamai Municipality,1
+2020-07-17,4,Lamjung,Marsyangdi Rural Municipality,22
+2020-07-17,4,Nawalparasi East,Hupsekot Rural Municipality,3
+2020-07-17,4,Tanahu,Byas Municipality,7
+2020-07-17,5,Bardiya,Bardiya National Park National Park,10
+2020-07-17,5,Dang,Ghorahi Submetropolitan City,5
+2020-07-17,5,Palpa,Mathagadhi Rural Municipality,1
+2020-07-17,5,Rolpa,Rolpa Municipality,13
+2020-07-17,5,Rupandehi,Siyari Rural Municipality,1
+2020-07-17,6,Rukum West,Banfikot Rural Municipality,1
+2020-07-17,6,Salyan,Sharada Municipality,1
+2020-07-17,7,Bajhang,Surma Rural Municipality,1
+2020-07-17,7,Dadeldhura,Alital Rural Municipality,1
+2020-07-17,7,Doti,Shikhar Municipality,1
