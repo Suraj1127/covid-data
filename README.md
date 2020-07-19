@@ -28,6 +28,13 @@ Jupyter notebook to extract COVID data for Nepal from an API and aggregate the d
 #### Nepal COVID
 The exports for this notebook are saved in the Nepal COVID folder. 
 
+### _04 Nepal Mobility Data and Google Trends.ipynb_
+Jupyter notebook to compare and visualize trend of some COVID Google search phrases with Google mobility data
+
+#### Data sources
+1. [Google Trends](https://trends.google.com/trends/explore?geo=NP&q=corona%20death,nepal%20news,nepal%20weather,corona%20nepal)
+2. [Google Community Mobility Reports](https://www.google.com/covid19/mobility/)
+
 ## Environment setup
 Running of this notebook requires Jupyter software system. Either Jupyter notebook or Jupyter lab can be installed on the system. In addition, two additional Python packages -- like pycountry and pandas -- are required. The required packages are mentioned in each notebook. 
 
